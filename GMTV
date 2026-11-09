@@ -414,9 +414,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
  
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-logo="https://iili.io/JZIC9Hl.png" ch-number="112" group-title="GENERAL ENTERTAINMENT",Warner TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+https://maruyatvph.com/con/warnertv.mpd
  
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-logo="https://iili.io/JZIBpS4.png" ch-number="113" group-title="GENERAL ENTERTAINMENT",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -581,9 +579,6 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
 #EXTINF:-1 tvg-id="RaiItalia.it@Asia" tvg-logo="https://iili.io/Jmo3ys1.png" ch-number="156" group-title="ITALIAN ENTERTAINMENT",Rai Italia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
-
-#EXTINF:-1 tvg-id="52191" tvg-logo="https://iili.io/FFCQ05F.png" ch-number="157" group-title="ITALIAN ENTERTAINMENT",Mediaset Italia
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
   
 #EXTINF:-1 tvg-id="MusicTV.id" ch-number="201" tvg-logo="https://iili.io/JmnyccQ.png" group-title="MUSIC",Music TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -625,8 +620,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
  
 #EXTINF:-1 tvg-id="HBO HD.my" tvg-logo="https://iili.io/Jmo9Eg4.png" ch-number="304" group-title="GENERAL MOVIES",HBO
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://maruyatvph.com/con/hbo.mpd
  
 #EXTINF:-1 tvg-id="HBO Family.my" tvg-logo="https://iili.io/Jmo9css.png" ch-number="305" group-title="GENERAL MOVIES",HBO Family
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -641,8 +635,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
  
 #EXTINF:-1 tvg-id="CINEMAX HD.my" tvg-logo="https://iili.io/Jmo95bt.png" ch-number="307" group-title="GENERAL MOVIES",Cinemax
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://maruyatvph.com/con/cinemax.mpd
 
 #EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://iili.io/2ckApiQ.png" ch-number="308" group-title="GENERAL MOVIES",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -807,13 +800,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
  
 #EXTINF:-1 tvg-id="Cartoonito.id" tvg-logo="https://iili.io/JmoBXF1.png" ch-number="405" group-title="KIDS",Cartoonito
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+https://maruyatvph.com/con/cartoonito.mpd
  
 #EXTINF:-1 tvg-id="CartoonNetwork.id" tvg-logo="https://iili.io/JmoBj8g.png" ch-number="406" group-title="KIDS",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+https://maruyatvph.com/con/cartoonnetwork.mpd
  
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://iili.io/JmoBluj.png" ch-number="407" group-title="KIDS",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -871,11 +861,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/ind
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
  
 #EXTINF:-1 tvg-id="DiscoveryAsia.id" tvg-logo="https://iili.io/JmoC8Ob.png" ch-number="502" group-title="EDUCATIONAL",Discovery Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+https://maruyatvph.com/con/discoveryasia.mpd
  
 #EXTINF:-1 tvg-id="716.astro" tvg-logo="https://iili.io/d9HE0l9.png" ch-number="503" group-title="EDUCATIONAL",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -884,8 +870,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/Discover
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
  
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-logo="https://iili.io/JmoCOg9.png" ch-number="504" group-title="EDUCATIONAL",Animal Planet
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://maruyatvph.com/con/animalplanet.mpd
  
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://iili.io/JmoCwfS.png" ch-number="505" group-title="EDUCATIONAL",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -1896,47 +1881,23 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta2-cdn-flr.visionplus.id/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
- 
-#EXTINF:-1 tvg-id="UChannel.id" tvg-logo="https://iili.io/JmocfFs.png" ch-number="1002" group-title="RELIGION",U Channel
-https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 
-#EXTINF:-1 tvg-id="GMS.id@SD" tvg-logo="https://iili.io/2OgNBoP.png" ch-number="1003" group-title="RELIGION",GMS Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd
-
-#EXTINF:-1 tvg-id="Reformed 21.id" tvg-logo="https://iili.io/Jmocn94.png" ch-number="1004" group-title="RELIGION",Reformed 21
+#EXTINF:-1 tvg-id="Reformed 21.id" tvg-logo="https://iili.io/Jmocn94.png" ch-number="1002" group-title="RELIGION",Reformed 21
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
  
-#EXTINF:-1 tvg-id="TBNAsia.us@SD" tvg-logo="https://iili.io/Jmoc3MX.png" ch-number="1005" group-title="RELIGION",TBN Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
-https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mediampd/TBNAsia.mpd
+#EXTINF:-1 tvg-id="TBNAsia.us@SD" tvg-logo="https://iili.io/Jmoc3MX.png" ch-number="1003" group-title="RELIGION",TBN Asia
+https://maruyatvph.com/con/tbnasia.mpd
  
-#EXTINF:-1 tvg-id="EWTN.id" tvg-logo="https://iili.io/JmocFPn.png" ch-number="1006" group-title="RELIGION",EWTN
+#EXTINF:-1 tvg-id="EWTN.id" tvg-logo="https://iili.io/JmocFPn.png" ch-number="1004" group-title="RELIGION",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmaria Prd.ph" tvg-logo="https://iili.io/2Og83Zl.png" ch-number="1007" group-title="RELIGION",TV Maria
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=Clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
+#EXTINF:-1 tvg-id="Tvmaria Prd.ph" tvg-logo="https://iili.io/2Og83Zl.png" ch-number="1005" group-title="RELIGION",TV Maria
+https://maruyatvph.com/con/tvmaria.mpd
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmocBSf.png" ch-number="1008" group-title="RELIGION",Catholic TV
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-logo="https://iili.io/2Og8Kn2.png" ch-number="1009" group-title="RELIGION",Kairos
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JmocBSf.png" ch-number="1006" group-title="RELIGION",Catholic TV
  
 #EXTINF:-1 tvg-id="Eat and Go.id" tvg-logo="https://iili.io/Jmo0zG9.png" ch-number="1101" group-title="LIFESTYLE",Eat & Go
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1990,8 +1951,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
  
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://iili.io/JmocuV9.png" ch-number="1110" group-title="LIFESTYLE",Fashion TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+https://maruyatvph.com/con/fashiontv.mpd
  
 #EXTINF:-1 tvg-id="TV5MONDE Style.id" tvg-logo="https://iili.io/Jmo0I4e.png" ch-number="1111" group-title="LIFESTYLE",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
@@ -2005,13 +1965,16 @@ https://stream.ardangroup.fm:8443/ardan/_definst_/adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DZMM" tvg-logo="https://iili.io/3y0x4XS.png" ch-number="1153" group-title="TELERADYO",DZMM Teleradyo
 http://roch.ph/mike/mike123/49.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/fWlcpLB.png" ch-number="1154" group-title="TELERADYO",DWAR Abante Radyo
+#EXTINF:-1 tvg-id="cg_abante_news" tvg-logo="https://iili.io/fWlcpLB.png" ch-number="1154" group-title="TELERADYO",DWAR Abante Radyo
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/KYMbXBR.png" ch-number="1155" group-title="TELERADYO",Talk
+#EXTINF:-1 tvg-logo="https://iili.io/fWlcpLB.png" ch-number="1155" group-title="TELERADYO",DZRH TV
+https://maruyatvph.com/con/dzrhtv.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/KYMbXBR.png" ch-number="1156" group-title="TELERADYO",Talk
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
  
-#EXTINF:-1 tvg-id="RRI NET.id" tvg-logo="https://iili.io/Jmo8ULF.png" ch-number="1156" group-title="TELERADYO",RRI Net
+#EXTINF:-1 tvg-id="RRI NET.id" tvg-logo="https://iili.io/Jmo8ULF.png" ch-number="1157" group-title="TELERADYO",RRI Net
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://iili.io/JmoSl4a.png" ch-number="1201" group-title="MALAYSIA",TV1
@@ -2171,19 +2134,19 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
  
 #EXTINF:-1 tvg-id="gma" tvg-logo="https://iili.io/doB6999.png" ch-number="1251" group-title="PHILIPPINES",GMA
-http://roch.ph/mike/mike123/34.m3u8
+https://maruyatvph.com/con/gma7.mpd
 
 #EXTINF:-1 tvg-id="gtv" tvg-logo="https://iili.io/d9AMggR.png" ch-number="1252" group-title="PHILIPPINES",GTV
-http://roch.ph/mike/mike123/40.m3u8
+https://maruyatvph.com/con/gtv.mpd
 
 #EXTINF:-1 tvg-id="kapamilya-channel" tvg-logo="https://iili.io/qMABzBf.png" ch-number="1253" group-title="PHILIPPINES",Kapamilya Channel
 http://roch.ph/mike/mike123/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/qMABqmX.png" ch-number="1254" group-title="PHILIPPINES",AllTV
-http://roch.ph/mike/mike123/42.m3u8
+https://maruyatvph.com/con/alltv.mpd
 
 #EXTINF:-1 tvg-id="a2z" tvg-logo="https://iili.io/2EyRuLJ.png" ch-number="1255" group-title="PHILIPPINES",A2Z
-http://roch.ph/mike/mike123/38.m3u8
+https://maruyatvph.com/con/a2z.mpd
 
 #EXTINF:-1 tvg-id="jeepney-tv" tvg-logo="https://iili.io/2rUht8G.png" ch-number="1256" group-title="PHILIPPINES",Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2192,19 +2155,19 @@ http://roch.ph/mike/mike123/38.m3u8
 https://absp-live.akamaized.net/dash/live/2099522/jeepneytv/manifest.mpd?
 
 #EXTINF:-1 tvg-id="tv5" tvg-logo="https://iili.io/BsXeCTx.png" ch-number="1257" group-title="PHILIPPINES",TV5
-http://roch.ph/mike/mike123/36.m3u8
+https://maruyatvph.com/con/tv5.mpd
 
 #EXTINF:-1 tvg-id="rptv" tvg-logo="https://iili.io/JmUF7Wv.png" ch-number="1258" group-title="PHILIPPINES",RPTV
 https://maruyatvph.com/con/rptv.mpd
 
 #EXTINF:-1 tvg-id="net-25" tvg-logo="https://iili.io/2rUIs5J.png" ch-number="1259" group-title="PHILIPPINES",Net 25
-http://roch.ph/mike/mike123/156.m3u8
+https://maruyatvph.com/con/net25.mpd
  
 #EXTINF:-1 tvg-id="ibc-tv-13" tvg-logo="https://iili.io/2EyXabj.png" ch-number="1260" group-title="PHILIPPINES",IBC
-http://roch.ph/mike/mike123/48.m3u8
+https://maruyatvph.com/con/ibc13.mpd
 
 #EXTINF:-1 tvg-id="ptv" tvg-logo="https://iili.io/2EyRTXa.png" ch-number="1261" group-title="PHILIPPINES",PTV
-http://roch.ph/mike/mike123/44.m3u8
+https://maruyatvph.com/con/ptv4.mpd
 
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://iili.io/JmosndF.png" ch-number="1262" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
