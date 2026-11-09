@@ -1969,7 +1969,7 @@ http://roch.ph/mike/mike123/49.m3u8
 #EXTINF:-1 tvg-id="cg_abante_news" tvg-logo="https://iili.io/fWlcpLB.png" ch-number="1154" group-title="TELERADYO",DWAR Abante Radyo
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/fWlcpLB.png" ch-number="1155" group-title="TELERADYO",DZRH TV
+#EXTINF:-1 tvg-logo="https://iili.io/262kNIe.png" ch-number="1155" group-title="TELERADYO",DZRH TV
 https://maruyatvph.com/con/dzrhtv.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/KYMbXBR.png" ch-number="1156" group-title="TELERADYO",Talk
