@@ -1352,7 +1352,7 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://iili.io/qPWmoS2.png" ch-number="726" group-title="TURKISH NEWS",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
  
-#EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://iili.io/JmKHwEN.png" ch-number="727 group-title="TURKISH NEWS",TRT Haber
+#EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://iili.io/JmKHwEN.png" ch-number="727" group-title="TURKISH NEWS",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
  
 #EXTINF:-1 tvg-id="A HABER HD.tr" tvg-logo="https://iili.io/JmKHvvn.png" ch-number="728" group-title="TURKISH NEWS",A Haber
