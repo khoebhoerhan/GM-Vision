@@ -1028,7 +1028,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 #EXTINF:-1 tvg-id="sky.85" tvg-logo="https://iili.io/nZMLcLg.png" ch-number="633" group-title="AUSTRALIAN NEWS",News 24
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
  
-#EXTINF:-1 tvg-id="Astro Awani HD.my" tvg-logo="https://iili.io/JmKmwyG.png" ch-number="634" group-title="MALAY NEWS",Astro Awani
+#EXTINF:-1 tvg-id="Astro Awani HD.my" tvg-logo="https://iili.io/nmM5EPa.png" ch-number="634" group-title="MALAY NEWS",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
  
 #EXTINF:-1 tvg-id="Berita RTM.my" tvg-logo="https://iili.io/JmKmOuf.png" ch-number="635" group-title="MALAY NEWS",Berita RTM
