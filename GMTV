@@ -3,31 +3,22 @@
  
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" ch-number="1" group-title="NASIONAL",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/204/index.mpd
  
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" ch-number="2" group-title="NASIONAL",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/205/index.mpd
  
 #EXTINF:-1 tvg-id="mOji.id" tvg-logo="https://iili.io/JMp3vUJ.png" ch-number="3" group-title="NASIONAL",Moji
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=206&type=drm
-https://tvratu.my.id/vid/index.mpd?id=206&type=dash
+https://vidio123.mikrofast.web.id/vidio/206/index.mpd
  
 #EXTINF:-1 tvg-id="TransTV.id@SD" tvg-logo="https://iili.io/JMp3ZUG.png" ch-number="4" group-title="NASIONAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -364,11 +355,11 @@ https://proxy-v.rctiplus.id/live/web/visionprime/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/mncent/index.m3u8
 
-#EXTINF:-1 tvg-id="Citra Entertainment.id" tvg-logo="https://iili.io/2MIQIj4.png" ch-number="103" group-title="NATIONAL ENTERTAINMENT",Citra Entertainment
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/2MIQIj4.png" ch-number="103" group-title="NATIONAL ENTERTAINMENT",Citra Plus
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/21289/index.mpd
  
 #EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-logo="https://iili.io/JZIn3ep.png" ch-number="104" group-title="NATIONAL ENTERTAINMENT",Celebrities TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -538,11 +529,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
 https://cdn.qd.je/163189.php?id=tvbxh
  
 #EXTINF:-1 tvg-id="TVBS Asia HD.my" tvg-logo="https://iili.io/Jmo3XVt.png" ch-number="139" group-title="CHINESE ENTERTAINMENT",TVBS Asia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="Astro AEC.my" tvg-logo="https://iili.io/qCYjcMX.png" ch-number="140" group-title="CHINESE ENTERTAINMENT",Astro AEC
 https://cdn.qd.je/163189.php?id=aec
@@ -555,7 +542,7 @@ http://208.87.242.55/livehttpplay?channel_id=20704
 #KODIPROP:inputstream.adaptive.license_key=b8c98095d1e44569a725ef30fb8682c8:0e1dd4e7374f17a2f44b695227e5843b
 https://absp-live.akamaized.net/dash/live/2099522/abc-au/manifest.mpd
 
-#EXTINF:-1 tvg-id="GMA Pinoy TV.ca" tvg-logo="https://iili.io/2rSp1ZQ.png" ch-number="145" group-title="PINOY ENTERTAINMENT",GMA Pinoy TV
+#EXTINF:-1 tvg-id="GMA Pinoy TV.ca" tvg-logo="https://iili.io/2rSp1ZQ.png" ch-number="145" group-title="WORLD ENTERTAINMENT",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
 https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
@@ -575,7 +562,7 @@ https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmoKN9f.png" ch-number="154" group-title="EUROPEAN ENTERTAINMENT",Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
-#EXTINF:-1 tvg-id="RaiItalia.it@Asia" tvg-logo="https://iili.io/Jmo3ys1.png" ch-number="156" group-title="ITALIAN ENTERTAINMENT",Rai Italia
+#EXTINF:-1 tvg-id="RaiItalia.it@Asia" tvg-logo="https://iili.io/Jmo3ys1.png" ch-number="156" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
   
 #EXTINF:-1 tvg-id="MusicTV.id" ch-number="201" tvg-logo="https://iili.io/JmnyccQ.png" group-title="MUSIC",Music TV
@@ -618,8 +605,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBios
 https://maruyatvph.com/con/hbo.mpd
  
 #EXTINF:-1 tvg-id="HBO Family.my" tvg-logo="https://iili.io/Jmo9css.png" ch-number="305" group-title="GENERAL MOVIES",HBO Family
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
  
 #EXTINF:-1 tvg-id="HBO Hits.my" tvg-logo="https://iili.io/Jmo90qG.png" ch-number="306" group-title="GENERAL MOVIES",HBO Hits
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
@@ -658,7 +644,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
  
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://iili.io/JmoHtne.png" ch-number="313" group-title="ASIAN MOVIES",tvN Movies
-http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
  
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://iili.io/JmoHQt9.png" ch-number="314" group-title="ASIAN MOVIES",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -765,11 +753,10 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Reality.m3u8
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Ficcao.m3u8
  
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://iili.io/JmoB4cX.png" ch-number="401" group-title="KIDS",Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/8237/index.mpd
 
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://iili.io/JmoBUPI.png" ch-number="402" group-title="KIDS",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1384,52 +1371,52 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://iili.io/2lP4Kq7.png" ch-number="801" group-title="NATIONAL SPORTS",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=17938
-https://tvratu.my.id/vid/index.mpd?id=17938
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/17938/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://iili.io/2lP43sS.png" ch-number="802" group-title="NATIONAL SPORTS",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=17939
-https://tvratu.my.id/vid/index.mpd?id=17939
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/17939/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://iili.io/2lP42X2.png" ch-number="803" group-title="NATIONAL SPORTS",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19404
-https://tvratu.my.id/vid/index.mpd?id=19404
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/19404/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://iili.io/2lP4dzl.png" ch-number="804" group-title="NATIONAL SPORTS",Champions TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=9182
-https://tvratu.my.id/vid/index.mpd?id=9182
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/9182/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://iili.io/2lP4f19.png" ch-number="805" group-title="NATIONAL SPORTS",Champions TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=9183
-https://tvratu.my.id/vid/index.mpd?id=9183
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/9183/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsGolf1.id" tvg-logo="https://iili.io/2iAIK8l.png" ch-number="806" group-title="NATIONAL SPORTS",Champions Golf 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=18189
-https://tvratu.my.id/vid/index.mpd?id=18189
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/18189/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsGolf2.id" tvg-logo="https://iili.io/2iAIFa4.png" ch-number="807" group-title="NATIONAL SPORTS",Champions Golf 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=18190
-https://tvratu.my.id/vid/index.mpd?id=18190
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/18190/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsFight.id" tvg-logo="https://iili.io/fyW3AyG.png" ch-number="808" group-title="NATIONAL SPORTS",Champions Fight
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=20216
-https://tvratu.my.id/vid/index.mpd?id=20216
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/20216/index.mpd
  
 #EXTINF:-1 tvg-id="SPOTV.id" ch-number="809" tvg-logo="https://iili.io/JjzVsK7.png" group-title="NATIONAL SPORTS",SPOTV Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -1731,7 +1718,7 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://iili.io/JhkbW9p.png" ch-number="861" group-title="BRASILIAN SPORTS",Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN HD.us" tvg-logo="https://iili.io/JmoIfF2.png" ch-number="8632" group-title="AMERICAN SPORTS",ESPN
+#EXTINF:-1 tvg-id="ESPN HD.us" tvg-logo="https://iili.io/JmoIfF2.png" ch-number="862" group-title="AMERICAN SPORTS",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN2 HD.us" tvg-logo="https://iili.io/JmoI2nf.png" ch-number="863" group-title="AMERICAN SPORTS",ESPN 2
@@ -2000,7 +1987,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
  
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://iili.io/JmoSRTB.png" ch-number="1204" group-title="MALAYSIA",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://iili.io/JmoSupV.png" ch-number="1205" group-title="MALAYSIA",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
@@ -2122,13 +2109,13 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 tvg-id="5-hd" tvg-logo="https://iili.io/2GF0CkF.png" ch-number="1240" group-title="UK",Channel 5
 https://albione.858it-cast.workers.dev/c5.m3u8
  
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-logo="https://iili.io/35abh42.png" ch-number="1241" group-title="BRASIL",Globo
+#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-logo="https://iili.io/35abh42.png" ch-number="1241" group-title="BRASIL",Globo
 http://79.127.238.228:14173/
  
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-logo="https://iili.io/JmoUAcG.png" ch-number="1242" group-title="BRASIL",Record
 http://79.127.238.228:14057
 
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="https://iili.io/JmoU794.png" ch-number="1243" group-title="BRASIL",SBT
+#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-logo="https://iili.io/JmoU794.png" ch-number="1243" group-title="BRASIL",SBT
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://iili.io/JmoUctS.png" ch-number="1244" group-title="BRASIL",Band
