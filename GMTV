@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-firstmedia.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal2.xml, https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia1.xml, https://www.open-epg.com/files/australia2.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey1.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland2.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia1.xml" refresh="3600"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-firstmedia.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal2.xml, https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia1.xml, https://www.open-epg.com/files/australia2.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland2.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia1.xml" refresh="3600"
  
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" ch-number="1" group-title="NASIONAL",SCTV
@@ -1305,10 +1305,10 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:-1 tvg-id="EuroNews D.ch" tvg-logo="https://iili.io/JhksR99.png" ch-number="711" group-title="POLISH NEWS",Euronews Polska
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
  
-#EXTINF:-1 tvg-id="Al Jazeera.de" tvg-logo="https://iili.io/JmKt8CP.png" ch-number="712" group-title="ARABIC NEWS",Al Jazeera Channel
+#EXTINF:-1 tvg-id="AlJazeera.de" tvg-logo="https://iili.io/JmKt8CP.png" ch-number="712" group-title="ARABIC NEWS",Al Jazeera Channel
 https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 
-#EXTINF:-1 tvg-id="Al Jazeera.de" tvg-logo="https://iili.io/JmKt8CP.png" ch-number="713" group-title="ARABIC NEWS",Al Jazeera Now
+#EXTINF:-1 tvg-logo="https://iili.io/JmKt8CP.png" ch-number="713" group-title="ARABIC NEWS",Al Jazeera Now
 https://live-hls-web-aja2-ll-gcp.thehlive.com/AJA2/index.m3u8
  
 #EXTINF:-1 tvg-id="Al Arabiya HD.ae" tvg-logo="https://iili.io/JmKtSG1.png" ch-number="714" group-title="ARABIC NEWS",Al Arabiya
@@ -1326,7 +1326,7 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="CNBC Arabiya HD.ae" tvg-logo="https://iili.io/fYnbB8G.png" ch-number="718" group-title="ARABIC NEWS",CNBC Arabia
 https://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
  
-#EXTINF:-1 tvg-id="TRT ARABI" tvg-logo="https://iili.io/JmKtkZB.png" ch-number="719" group-title="ARABIC NEWS",TRT Arabi
+#EXTINF:-1 tvg-id="TRT EL ARABIA.tr" tvg-logo="https://iili.io/JmKtkZB.png" ch-number="719" group-title="ARABIC NEWS",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
  
 #EXTINF:-1 tvg-id="France 24 Arabic HD.ae" tvg-logo="https://iili.io/Jhks5ue.png" ch-number="720" group-title="ARABIC NEWS",France 24 Arabic
@@ -1343,55 +1343,58 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN Arabic.ae" tvg-logo="https://iili.io/JmKtejV.png" ch-number="723" group-title="ARABIC NEWS",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://iili.io/JmKHVTJ.png" ch-number="724" group-title="TURKISH NEWS",CNN Türk
+#EXTINF:-1 tvg-id="CNN TÜRK.tr" tvg-logo="https://iili.io/JmKHVTJ.png" ch-number="724" group-title="TURKISH NEWS",CNN Türk
 http://95.174.71.114/TR-CNN-TURK/index.m3u8
  
-#EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-logo="https://iili.io/JmKHjBp.png" ch-number="725" group-title="TURKISH NEWS",Bloomberg HT
+#EXTINF:-1 tvg-id="BLOOMBERG HT.tr" tvg-logo="https://iili.io/JmKHjBp.png" ch-number="725" group-title="TURKISH NEWS",Bloomberg HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://iili.io/qPWmoS2.png" ch-number="726" group-title="TURKISH NEWS",CNBC-e
+#EXTINF:-1 tvg-id="CNBC e.tr" tvg-logo="https://iili.io/qPWmoS2.png" ch-number="726" group-title="TURKISH NEWS",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
  
-#EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://iili.io/JmKHwEN.png" ch-number="727" group-title="TURKISH NEWS",TRT Haber
+#EXTINF:-1 tvg-id="TRT HABER.tr" tvg-logo="https://iili.io/JmKHwEN.png" ch-number="727" group-title="TURKISH NEWS",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
  
-#EXTINF:-1 tvg-id="A HABER HD.tr" tvg-logo="https://iili.io/JmKHvvn.png" ch-number="728" group-title="TURKISH NEWS",A Haber
-http://65.108.239.207/ahaber/index.m3u8
+#EXTINF:-1 tvg-id="A HABER.tr" tvg-logo="https://iili.io/JmKHvvn.png" ch-number="728" group-title="TURKISH NEWS",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
  
-#EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-logo="https://iili.io/JmKHWhv.png" ch-number="729" group-title="TURKISH NEWS",Haber Global
+#EXTINF:-1 tvg-id="HABER GLOBAL.tr" tvg-logo="https://iili.io/JmKHWhv.png" ch-number="729" group-title="TURKISH NEWS",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
  
-#EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-logo="https://iili.io/JmKHEkg.png" ch-number="730" group-title="TURKISH NEWS",Habertürk
+#EXTINF:-1 tvg-id="HABERTÜRK.tr" tvg-logo="https://iili.io/JmKHEkg.png" ch-number="730" group-title="TURKISH NEWS",Habertürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
  
-#EXTINF:-1 tvg-id="NTV HD.tr" tvg-logo="https://iili.io/JmKHXQR.png" ch-number="731" group-title="TURKISH NEWS",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://iili.io/JmKHXQR.png" ch-number="731" group-title="TURKISH NEWS",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
  
-#EXTINF:-1 tvg-id="24 HD.tr" tvg-logo="https://iili.io/JmKHkYX.png" ch-number="732" group-title="TURKISH NEWS",24
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://iili.io/JmKHkYX.png" ch-number="732" group-title="TURKISH NEWS",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://iili.io/2XBndap.png" ch-number="733" group-title="TURKISH NEWS",tv100
+#EXTINF:-1 tvg-id="TV 100.tr" tvg-logo="https://iili.io/2XBndap.png" ch-number="733" group-title="TURKISH NEWS",tv100
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 
-#EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-logo="https://iili.io/JmKHN4I.png" ch-number="734" group-title="TURKISH NEWS",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT HABER.tr" tvg-logo="https://iili.io/JmKHN4I.png" ch-number="734" group-title="TURKISH NEWS",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
  
 #EXTINF:-1 tvg-id="TVNET HD.tr" tvg-logo="https://iili.io/JmKHe2t.png" ch-number="735" group-title="TURKISH NEWS",tvnet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" ch-number="736" group-title="AFRICAN NEWS",Africanews English
+#EXTINF:-1 tvg-id="EKOTÜRK.tr" tvg-logo="https://iili.io/K0bWIBn.png" ch-number="736" group-title="TURKISH NEWS",Ekotürk
+https://cdn.ekoturk.net/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" ch-number="737" group-title="AFRICAN NEWS",Africanews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
  
-#EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" ch-number="737" group-title="AFRICAN NEWS",Africanews Français
+#EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" ch-number="738" group-title="AFRICAN NEWS",Africanews Français
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-#EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/fYVlwml.png" ch-number="738" group-title="AFRICAN NEWS",CNBC Africa
+#EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/fYVlwml.png" ch-number="739" group-title="AFRICAN NEWS",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SAN" tvg-logo="https://iili.io/dukKI8G.png" ch-number="739" group-title="AFRICAN NEWS",SABC News
+#EXTINF:-1 tvg-id="SAN" tvg-logo="https://iili.io/dukKI8G.png" ch-number="740" group-title="AFRICAN NEWS",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmKwkle.png" ch-number="740" group-title="AFRICAN NEWS",Africa 24
+#EXTINF:-1 tvg-logo="https://iili.io/JmKwkle.png" ch-number="741" group-title="AFRICAN NEWS",Africa 24
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://iili.io/2lP4Kq7.png" ch-number="801" group-title="NATIONAL SPORTS",Champions TV 1
@@ -1863,7 +1866,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL.de" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="886" group-title="WORLD SPORTS",Sportdigital Fussball
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="886" group-title="WORLD SPORTS",Sportdigital Fussball
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2453,37 +2456,37 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
  
-#EXTINF:-1 tvg-id="360 HD.tr" tvg-logo="https://iili.io/JmoZjrN.png" ch-number="1411" group-title="TÜRKIYE",360
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://iili.io/JmoZjrN.png" ch-number="1411" group-title="TÜRKIYE",360
 https://tv.ensonhaber.com/tv360/tv360.m3u8
  
-#EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="https://iili.io/JmoZXBR.png" ch-number="1412" group-title="TÜRKIYE",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iili.io/JmoZXBR.png" ch-number="1412" group-title="TÜRKIYE",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
  
 #EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://iili.io/JmoZO7t.png" ch-number="1413" group-title="TÜRKIYE",Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
  
-#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://iili.io/JmoZVLv.png" ch-number="1414" group-title="TÜRKIYE",Kanal 7
+#EXTINF:-1 tvg-id="KANAL 7.tr" tvg-logo="https://iili.io/JmoZVLv.png" ch-number="1414" group-title="TÜRKIYE",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
  
-#EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-logo="https://iili.io/JmoZN2I.png" ch-number="1415" group-title="TÜRKIYE",Kanal D
+#EXTINF:-1 tvg-id="KANAL D.tr" tvg-logo="https://iili.io/JmoZN2I.png" ch-number="1415" group-title="TÜRKIYE",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
  
-#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://iili.io/JmoZkpn.png" ch-number="1416" group-title="TÜRKIYE",Show TV
+#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://iili.io/JmoZkpn.png" ch-number="1416" group-title="TÜRKIYE",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
  
-#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://iili.io/JmoZekX.png" ch-number="1417" group-title="TÜRKIYE",Star TV
+#EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://iili.io/JmoZekX.png" ch-number="1417" group-title="TÜRKIYE",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
  
-#EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="https://iili.io/JmoZ8Is.png" ch-number="1418" group-title="TÜRKIYE",TRT 1
+#EXTINF:-1 tvg-id="TRT 1.tr" tvg-logo="https://iili.io/JmoZ8Is.png" ch-number="1418" group-title="TÜRKIYE",TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
  
-#EXTINF:-1 tvg-id="TRT 2 HD.tr" tvg-logo="https://iili.io/JmoZShG.png" ch-number="1419" group-title="TÜRKIYE",TRT 2
+#EXTINF:-1 tvg-id="TRT 2.tr" tvg-logo="https://iili.io/JmoZShG.png" ch-number="1419" group-title="TÜRKIYE",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
  
-#EXTINF:-1 tvg-id="TV 4.tr" tvg-logo="https://iili.io/JmoZUQf.png" ch-number="1420" group-title="TÜRKIYE",TV 4
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://iili.io/JmoZUQf.png" ch-number="1420" group-title="TÜRKIYE",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
  
-#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://iili.io/JmoZh1p.png" ch-number="1421" group-title="TÜRKIYE",TV 8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://iili.io/JmoZh1p.png" ch-number="1421" group-title="TÜRKIYE",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
  
 ########################################################################################RADIO STATIONS####################################################################################################################################################################
