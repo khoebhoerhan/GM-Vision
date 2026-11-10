@@ -1990,13 +1990,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://iili.io/JmoSupV.png" ch-number="1205" group-title="MALAYSIA",8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+https://cdn.qd.je/163189.php?id=8tv
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://iili.io/JmoS7Q1.png" ch-number="1206" group-title="MALAYSIA",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:07:07:43
  
 #EXTINF:-1 tvg-id="NTV7.my" tvg-logo="https://iili.io/JmoSaCF.png" ch-number="1207" group-title="MALAYSIA",DidikTV KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93771&uid=10223&deviceMac=00:1A:79:07:07:43
  
 #EXTINF:-1 tvg-id="Astro Ria.my" tvg-logo="https://iili.io/3maiFJn.png" ch-number="1208" group-title="MALAYSIA",Astro Ria
 https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=ria
