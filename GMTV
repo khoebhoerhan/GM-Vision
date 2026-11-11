@@ -908,11 +908,10 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 http://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
 
 #EXTINF:-1 tvg-id="CNBCAsia.id" tvg-logo="https://iili.io/fYntTOl.png" ch-number="605" group-title="WORLD NEWS",CNBC Asia
-https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2351831e4519c8a7204669b56d276258:c01f5966265cfb1fce0ec0ad9a317913
-#https://ac-009.live.p7s1video.net/d2e237d7/t_009/cnbc/cenc-default.mpd
+https://ac-009.live.p7s1video.net/d2e237d7/t_009/cnbc/cenc-default.mpd
  
 #EXTINF:-1 tvg-id="Bloomberg.id" tvg-logo="https://iili.io/Jhksfun.png" ch-number="606" group-title="WORLD NEWS",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
