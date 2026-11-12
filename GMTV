@@ -1950,7 +1950,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Jmo8SX1.png" ch-number="1151" group-title="TELERADYO",Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/KwOidSj.png" ch-number="1152" group-title="TELERADYO",Ardan Radio
+#EXTINF:-1 tvg-id="Ardan" tvg-logo="https://iili.io/KwOidSj.png" ch-number="1152" group-title="TELERADYO",Ardan Radio
 https://stream.ardangroup.fm:8443/ardan/_definst_/adaptive.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="DZMM" tvg-logo="https://iili.io/3y0x4XS.png" ch-number="1153" group-title="TELERADYO",DZMM Teleradyo
