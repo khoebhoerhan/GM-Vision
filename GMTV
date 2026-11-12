@@ -1947,7 +1947,7 @@ https://maruyatvph.com/con/fashiontv.mpd
 #EXTINF:-1 tvg-id="TV5MONDE Style.id" tvg-logo="https://iili.io/Jmo0I4e.png" ch-number="1111" group-title="LIFESTYLE",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo8SX1.png" ch-number="1151" group-title="TELERADYO",Suara Surabaya
+#EXTINF:-1 tvg-id="Suara Surabaya" tvg-logo="https://iili.io/Jmo8SX1.png" ch-number="1151" group-title="TELERADYO",Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ardan" tvg-logo="https://iili.io/KwOidSj.png" ch-number="1152" group-title="TELERADYO",Ardan Radio
