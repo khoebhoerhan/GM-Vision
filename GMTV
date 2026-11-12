@@ -764,14 +764,16 @@ https://vidio123.mikrofast.web.id/vidio/8237/index.mpd
 https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
   
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://iili.io/JmoB8np.png" ch-number="403" group-title="KIDS",Horee!
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/6397/index.mpd
   
-#EXTINF:-1 tvg-id="MAXKids.id" tvg-logo="https://iili.io/ftfLAlI.png" ch-number="404" group-title="KIDS",Max Kids
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 tvg-id="HipHipHoree!.id" tvg-logo="https://iili.io/JmoBrFt.png" ch-number="404" group-title="KIDS",Hip Hip Horee!
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/7052/index.mpd
  
 #EXTINF:-1 tvg-id="Cartoonito.id" tvg-logo="https://iili.io/JmoBXF1.png" ch-number="405" group-title="KIDS",Cartoonito
 https://maruyatvph.com/con/cartoonito.mpd
