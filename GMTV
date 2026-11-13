@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal2.xml, https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland2.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia1.xml" refresh="3600"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal2.xml, https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland2.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia.xml" refresh="3600"
  
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" ch-number="1" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -88,9 +88,11 @@ https://flv.intechmedia.net/live/ch119.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://iili.io/JV3xSnt.png" ch-number="22" group-title="NATIONAL NEWS",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8fest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
  
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://iili.io/fppogJj.png" ch-number="23" group-title="NATIONAL NEWS",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -553,147 +555,124 @@ https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
  
 #EXTINF:-1 tvg-id="MusikIndonesia.id@SD" ch-number="202" tvg-logo="https://iili.io/Jmny7Pj.png" group-title="MUSIC",Musik Indonesia
 http://202.150.165.66:8088/play/328-MusikIndonesia/index.m3u8
-  
-#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" ch-number="203" group-title="MUSIC",Myx Global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
-
-#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" ch-number="204" group-title="MUSIC",Myx Philippines
-http://roch.ph/mike/mike123/564.m3u8
  
-#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://iili.io/Jmny4iG.png" ch-number="301" group-title="NATIONAL MOVIES",IMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=50&type=drm&token=apistech
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
- 
-#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://iili.io/JmnyrVs.png" ch-number="302" group-title="NATIONAL MOVIES",Flik
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-
-#EXTINF:-1 tvg-id="Citra Bioskop.id" tvg-logo="https://iili.io/3Y4zXhG.png" ch-number="303" group-title="NATIONAL MOVIES",Citra Bioskop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
- 
-#EXTINF:-1 tvg-id="HBO HD.my" tvg-logo="https://iili.io/Jmo9Eg4.png" ch-number="304" group-title="GENERAL MOVIES",HBO
+#EXTINF:-1 tvg-id="HBO HD.my" tvg-logo="https://iili.io/Jmo9Eg4.png" ch-number="301" group-title="GENERAL MOVIES",HBO
 https://maruyatvph.com/con/hbo.mpd
  
-#EXTINF:-1 tvg-id="HBO Family.my" tvg-logo="https://iili.io/Jmo9css.png" ch-number="305" group-title="GENERAL MOVIES",HBO Family
+#EXTINF:-1 tvg-id="HBO Family.my" tvg-logo="https://iili.io/Jmo9css.png" ch-number="302" group-title="GENERAL MOVIES",HBO Family
 http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
  
-#EXTINF:-1 tvg-id="HBO Hits.my" tvg-logo="https://iili.io/Jmo90qG.png" ch-number="306" group-title="GENERAL MOVIES",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits.my" tvg-logo="https://iili.io/Jmo90qG.png" ch-number="303" group-title="GENERAL MOVIES",HBO Hits
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
  
-#EXTINF:-1 tvg-id="Cg Hbosign.ph" tvg-logo="https://iili.io/Jmo911f.png" ch-number="306" group-title="GENERAL MOVIES",HBO Signature
+#EXTINF:-1 tvg-id="Cg Hbosign.ph" tvg-logo="https://iili.io/Jmo911f.png" ch-number="304" group-title="GENERAL MOVIES",HBO Signature
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
  
-#EXTINF:-1 tvg-id="CINEMAX HD.my" tvg-logo="https://iili.io/Jmo95bt.png" ch-number="307" group-title="GENERAL MOVIES",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX HD.my" tvg-logo="https://iili.io/Jmo95bt.png" ch-number="305" group-title="GENERAL MOVIES",Cinemax
 https://maruyatvph.com/con/cinemax.mpd
 
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://iili.io/2ckApiQ.png" ch-number="308" group-title="GENERAL MOVIES",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://iili.io/2ckApiQ.png" ch-number="306" group-title="GENERAL MOVIES",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 
-#EXTINF:-1 tvg-id="Movies Now HD.in" tvg-logo="https://iili.io/F3bXsEB.png" ch-number="309" group-title="GENERAL MOVIES",Movies Now
+#EXTINF:-1 tvg-id="Movies Now HD.in" tvg-logo="https://iili.io/F3bXsEB.png" ch-number="307" group-title="GENERAL MOVIES",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="MNX HD.in" tvg-logo="https://iili.io/F3be3e1.png" ch-number="310" group-title="GENERAL MOVIES",MNX
+#EXTINF:-1 tvg-id="MNX HD.in" tvg-logo="https://iili.io/F3be3e1.png" ch-number="308" group-title="GENERAL MOVIES",MNX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="MN+ HD.in" tvg-logo="https://iili.io/F3bXLrP.png" ch-number="311" group-title="GENERAL MOVIES",MN+
+#EXTINF:-1 tvg-id="MN+ HD.in" tvg-logo="https://iili.io/F3bXLrP.png" ch-number="309" group-title="GENERAL MOVIES",MN+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="Romedy Now.in" tvg-logo="https://iili.io/F3bPmle.png" ch-number="312" group-title="GENERAL MOVIES",Romedy Now
+#EXTINF:-1 tvg-id="Romedy Now.in" tvg-logo="https://iili.io/F3bPmle.png" ch-number="310" group-title="GENERAL MOVIES",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#EXTINF:-1 tvgv-id="Galaxy.id" tvg-logo="https://iili.io/Jmo9aXn.png" ch-number="311" group-title="GENERAL MOVIES",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
  
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://iili.io/JmoHtne.png" ch-number="313" group-title="ASIAN MOVIES",tvN Movies
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://iili.io/Jmo9YzX.png" ch-number="312" group-title="GENERAL MOVIES",Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
+ 
+#EXTINF:-1 tvg-id="HitsMovies.id" tvg-logo="https://iili.io/Jmo9V72.png" ch-number="313" group-title="GENERAL MOVIES",Hits Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hitsmovies/index.m3u8
+ 
+#EXTINF:-1 tvg-id="CinemaWorld.id" tvg-logo="https://iili.io/Jmo9ReI.png" ch-number="314" group-title="GENERAL MOVIES",CinemaWorld
+http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://iili.io/d9p9oPI.png" ch-number="315" group-title="GENERAL MOVIES",Film4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://iili.io/Jmny4iG.png" ch-number="316" group-title="ASIAN MOVIES",IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/imc/index.m3u8
+ 
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://iili.io/JmoHtne.png" ch-number="317" group-title="ASIAN MOVIES",tvN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
  
-#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://iili.io/JmoHQt9.png" ch-number="314" group-title="ASIAN MOVIES",Thrill
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://iili.io/JmoHQt9.png" ch-number="318" group-title="ASIAN MOVIES",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
 
-#EXTINF:-1 tvg-id="cinema-one" tvg-logo="https://iili.io/JmoHb6b.png" ch-number="327" group-title="ASIAN MOVIES",Cinema One Philippines
+#EXTINF:-1 tvg-id="cinema-one" tvg-logo="https://iili.io/JmoHb6b.png" ch-number="319" group-title="ASIAN MOVIES",Cinema One Philippines
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55eddd1e157e4c3b830866e4679e7032:525030e984567ba8df0af80660952368
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://absp-live.akamaized.net/dash/live/2099522/c1ph/manifest.mpd?
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://iili.io/Jmod11a.png" ch-number="315" group-title="CHINESE MOVIES",Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://iili.io/Jmod11a.png" ch-number="320" group-title="CHINESE MOVIES",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
  
-#EXTINF:-1 tvg-id="CCM.id" tvg-logo="https://iili.io/Jmod0qg.png" ch-number="316" group-title="CHINESE MOVIES",CCM
+#EXTINF:-1 tvg-id="CCM.id" tvg-logo="https://iili.io/Jmod0qg.png" ch-number="321" group-title="CHINESE MOVIES",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
  
-#EXTINF:-1 tvg-id="ZBioskop.id" tvg-logo="https://iili.io/F3bzxTb.png" ch-number="317" group-title="HINDI MOVIES",Zee Bioskop
+#EXTINF:-1 tvg-id="ZBioskop.id" tvg-logo="https://iili.io/F3bzxTb.png" ch-number="322" group-title="HINDI MOVIES",Zee Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
 
-#EXTINF:-1 tvg-id="Zee Cinema HD.in" tvg-logo="https://iili.io/F3bznyu.png" ch-number="318" group-title="HINDI MOVIES",Zee Cinema
+#EXTINF:-1 tvg-id="Zee Cinema HD.in" tvg-logo="https://iili.io/F3bznyu.png" ch-number="323" group-title="HINDI MOVIES",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
  
-#EXTINF:-1 tvg-id="andpictures HD.in" tvg-logo="https://iili.io/F3bTt4V.png" ch-number="319" group-title="HINDI MOVIES",&pictures
+#EXTINF:-1 tvg-id="andpictures HD.in" tvg-logo="https://iili.io/F3bTt4V.png" ch-number="324" group-title="HINDI MOVIES",&pictures
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
  
-#EXTINF:-1 tvg-id="Zee Action.in" tvg-logo="https://iili.io/F3bzzjj.png" ch-number="320" group-title="HINDI MOVIES",Zee Action
+#EXTINF:-1 tvg-id="Zee Action.in" tvg-logo="https://iili.io/F3bzzjj.png" ch-number="325" group-title="HINDI MOVIES",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="SONYMAX.in" tvg-logo="https://iili.io/JmoHMGa.png" ch-number="321" group-title="HINDI MOVIES",Sony Max
+#EXTINF:-1 tvg-id="SONYMAX.in" tvg-logo="https://iili.io/JmoHMGa.png" ch-number="326" group-title="HINDI MOVIES",Sony Max
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
- 
-#EXTINF:-1 tvg-id="HitsMovies.id" tvg-logo="https://iili.io/Jmo9V72.png" ch-number="322" group-title="GENERAL MOVIES",Hits Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/hitsmovies/index.m3u8
- 
-#EXTINF:-1 tvg-id="CinemaWorld.id" tvg-logo="https://iili.io/Jmo9ReI.png" ch-number="323" group-title="GENERAL MOVIES",CinemaWorld
-http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
   
-#EXTINF:-1 tvgv-id="Galaxy.id" tvg-logo="https://iili.io/Jmo9aXn.png" ch-number="324" group-title="GENERAL MOVIES",Galaxy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
- 
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://iili.io/Jmo9YzX.png" ch-number="325" group-title="GENERAL MOVIES",Galaxy Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
- 
-#EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://iili.io/d9p9oPI.png" ch-number="326" group-title="GENERAL MOVIES",Film4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
-
 #EXTINF:-1 tvg-id="KBS Drama" tvg-logo="https://iili.io/JmnpjvS.png" ch-number="351" group-title="WORLD SERIES",KBS Drama
 http://koreatv.dothome.co.kr/kbsdrama.php
  
@@ -1233,31 +1212,31 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:-1 tvg-id="EuroNews D.ch" tvg-logo="https://iili.io/JhksR99.png" ch-number="710" group-title="POLISH NEWS",Euronews Polska
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
  
-#EXTINF:-1 tvg-id="AlJazeera.de" tvg-logo="https://iili.io/JmKt8CP.png" ch-number="711" group-title="ARABIC NEWS",Al Jazeera Channel
+#EXTINF:-1 tvg-id="Al Jazeera.ch" tvg-logo="https://iili.io/JmKt8CP.png" ch-number="711" group-title="ARABIC NEWS",Al Jazeera Channel
 https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmKt8CP.png" ch-number="712" group-title="ARABIC NEWS",Al Jazeera Now
 https://live-hls-web-aja2-ll-gcp.thehlive.com/AJA2/index.m3u8
  
-#EXTINF:-1 tvg-id="Al Arabiya HD.ae" tvg-logo="https://iili.io/JmKtSG1.png" ch-number="713" group-title="ARABIC NEWS",Al Arabiya
+#EXTINF:-1 tvg-id="AlArabiyaAr.sa" tvg-logo="https://iili.io/JmKtSG1.png" ch-number="713" group-title="ARABIC NEWS",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al Arabiya Business.ae" tvg-logo="https://iili.io/2M897g2.png" ch-number="714" group-title="ARABIC NEWS",Al Arabiya Business
+#EXTINF:-1 tvg-id="AlArabiyaBusinessAr.sa" tvg-logo="https://iili.io/2M897g2.png" ch-number="714" group-title="ARABIC NEWS",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al Hadath HD.ae" tvg-logo="https://iili.io/2M8950l.png" ch-number="715" group-title="ARABIC NEWS",Al Hadath
+#EXTINF:-1 tvg-id="AlHadathAr.sa" tvg-logo="https://iili.io/2M8950l.png" ch-number="715" group-title="ARABIC NEWS",Al Hadath
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Sky News Arabia HD.ae" tvg-logo="https://iili.io/2M8dyrv.png" ch-number="716" group-title="ARABIC NEWS",Sky News Arabia
+#EXTINF:-1 tvg-id="SkyNewsArabiaAr.sa" tvg-logo="https://iili.io/2M8dyrv.png" ch-number="716" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
-#EXTINF:-1 tvg-id="CNBC Arabiya HD.ae" tvg-logo="https://iili.io/fYnbB8G.png" ch-number="717" group-title="ARABIC NEWS",CNBC Arabia
+#EXTINF:-1 tvg-id="CNBCArabiaAr.sa" tvg-logo="https://iili.io/fYnbB8G.png" ch-number="717" group-title="ARABIC NEWS",CNBC Arabia
 https://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
  
 #EXTINF:-1 tvg-id="TRT EL ARABIA.tr" tvg-logo="https://iili.io/JmKtkZB.png" ch-number="718" group-title="ARABIC NEWS",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
  
-#EXTINF:-1 tvg-id="France 24 Arabic HD.ae" tvg-logo="https://iili.io/Jhks5ue.png" ch-number="719" group-title="ARABIC NEWS",France 24 Arabic
+#EXTINF:-1 tvg-id="France24Ar.sa" tvg-logo="https://iili.io/Jhks5ue.png" ch-number="719" group-title="ARABIC NEWS",France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
  
 #EXTINF:-1 tvg-id="DW Arabia HD.ae" tvg-logo="https://iili.io/Jhksu87.png" ch-number="720" group-title="ARABIC NEWS",DW Arabic
@@ -1265,7 +1244,7 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
  
-#EXTINF:-1 tvg-id="RT Arabic.ae" tvg-logo="https://iili.io/JhksYZb.png" ch-number="721" group-title="ARABIC NEWS",RT Arabic
+#EXTINF:-1 tvg-id="RTArabicAr.sa" tvg-logo="https://iili.io/JhksYZb.png" ch-number="721" group-title="ARABIC NEWS",RT Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTN Arabic.ae" tvg-logo="https://iili.io/JmKtejV.png" ch-number="722" group-title="ARABIC NEWS",CGTN Arabic
@@ -1432,7 +1411,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://iili.io/JjzV4ol.png" ch-number="816" group-title="NATIONAL SPORTS",Sportstars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ss2/index.m3u8
+https://proxy-v.rctiplus.id/live/web/ss1/index.m3u8
  
 #EXTINF:-1 tvg-id="Sportstars2.id" tvg-logo="https://iili.io/JjzV89s.png" ch-number="817" group-title="NATIONAL SPORTS",Sportstars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1786,7 +1765,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="SportdigitalFUSSBALL2.de" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="889" group-title="GERMAN SPORTS",Sportdigital Fussball 2
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL 2.ch" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="889" group-title="GERMAN SPORTS",Sportdigital Fussball 2
 #KODIPROP:inputstream=inputstream.adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
  
