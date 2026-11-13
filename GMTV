@@ -504,7 +504,7 @@ https://hd.crisphd.top/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
 #EXTINF:-1 tvg-id="TBS  East HD.us" tvg-logo="https://iili.io/Jmo37iF.png" ch-number="136" group-title="AMERICAN ENTERTAINMENT",TBS
 http://104.255.88.155/tbs/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4.id" tvg-logo="https://iili.io/Jmo3WxI.png" ch-number="137" group-title="CHINESE ENTERTAINMENT",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://iili.io/Jmo3WxI.png" ch-number="137" group-title="CHINESE ENTERTAINMENT",CCTV-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
 
@@ -830,7 +830,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="The Weather Channel HD.us" tvg-logo="https://iili.io/2rc9eNS.png" ch-number="522" group-title="WEATHER",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
-#EXTINF:-1 tvg-id="FXW" tvg-logo="https://iili.io/nDHjD5x.png" ch-number="523" group-title="WEATHER",News 24 Weather
+#EXTINF:-1 tvg-id="News24Weather.au" tvg-logo="https://iili.io/nDHjD5x.png" ch-number="523" group-title="WEATHER",News 24 Weather
 https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live.m3u8
  
 #EXTINF:-1 tvg-id="CNN HD.sg" tvg-logo="https://iili.io/JhksTaS.png" ch-number="601" group-title="WORLD NEWS",CNN International
