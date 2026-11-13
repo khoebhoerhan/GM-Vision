@@ -769,14 +769,14 @@ https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/moonbug/index.m3u8
  
-#EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-logo="https://iili.io/JmoCv5u.png" ch-number="501" group-title="EDUCATIONAL",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel HD.my" tvg-logo="https://iili.io/JmoCv5u.png" ch-number="501" group-title="EDUCATIONAL",Discovery Channel
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
  
-#EXTINF:-1 tvg-id="DiscoveryAsia.id" tvg-logo="https://iili.io/JmoC8Ob.png" ch-number="502" group-title="EDUCATIONAL",Discovery Asia
+#EXTINF:-1 tvg-id="Discovery Asia HD.my" tvg-logo="https://iili.io/JmoC8Ob.png" ch-number="502" group-title="EDUCATIONAL",Discovery Asia
 https://maruyatvph.com/con/discoveryasia.mpd
  
 #EXTINF:-1 tvg-id="716.astro" tvg-logo="https://iili.io/d9HE0l9.png" ch-number="503" group-title="EDUCATIONAL",DMAX
@@ -833,7 +833,7 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 #EXTINF:-1 tvg-id="News24Weather.au" tvg-logo="https://iili.io/nDHjD5x.png" ch-number="523" group-title="WEATHER",News 24 Weather
 https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live.m3u8
  
-#EXTINF:-1 tvg-id="CNN HD.sg" tvg-logo="https://iili.io/JhksTaS.png" ch-number="601" group-title="WORLD NEWS",CNN International
+#EXTINF:-1 tvg-id="CNN HD.my" tvg-logo="https://iili.io/JhksTaS.png" ch-number="601" group-title="WORLD NEWS",CNN International
 https://jmp2.uk/stvp-GBBD8000016N
 
 #EXTINF:-1 tvg-id="BBC News HD.sg" tvg-logo="https://iili.io/Jhksqjs.png" ch-number="602" group-title="WORLD NEWS",BBC News
@@ -874,7 +874,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://iili.io/JhksYZb.png" ch-number="611" group-title="WORLD NEWS",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
  
-#EXTINF:-1 tvg-id="GTN.cn@SD" tvg-logo="https://iili.io/JhksoG4.png" ch-number="612" group-title="WORLD NEWS",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://iili.io/JhksoG4.png" ch-number="612" group-title="WORLD NEWS",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
  
 #EXTINF:-1 tvg-id="trt-world" tvg-logo="https://iili.io/Jhks06Q.png" ch-number="613" group-title="WORLD NEWS",TRT World
@@ -935,7 +935,7 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://iili.io/d9HAnkB.png" ch-number="627" group-title="AMERICAN NEWS",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
  
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://iili.io/JmKvHps.png" ch-number="628" group-title="AMERICAN NEWS",ABC News Live
+#EXTINF:-1 tvg-id="6508be683a0d700008c534e4" tvg-logo="https://iili.io/JmKvHps.png" ch-number="628" group-title="AMERICAN NEWS",ABC News Live
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
  
 #EXTINF:-1 tvg-id="One America News Network HD.us" tvg-logo="https://iili.io/JmKvRCQ.png" ch-number="629" group-title="AMERICAN NEWS",OAN
@@ -1002,7 +1002,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://iili.io/dfwgpOx.png" ch-number="646" group-title="BRASILIAN NEWS",Band News TV
 http://170.83.16.50/BAND_NEWS/index.m3u8
  
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://iili.io/Jhv9P7j.png" ch-number="647" group-title="BRASILIAN NEWS",Record News
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="https://iili.io/Jhv9P7j.png" ch-number="647" group-title="BRASILIAN NEWS",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
  
 #EXTINF:-1 tvg-id="anc" tvg-logo="https://iili.io/JmFyHGI.png" ch-number="648" group-title="PINOY NEWS",ANC
@@ -1542,51 +1542,47 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/8m8
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd 
 
-#EXTINF:-1 tvg-id="FS1" tvg-logo="https://iili.io/F2IqVol.png" ch-number="844" group-title="AUSTRALIAN SPORTS",Fox Cricket
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=28140
-
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" ch-number="845" group-title="BRASILIAN SPORTS",ESPN Brasil
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" ch-number="844" group-title="BRASILIAN SPORTS",ESPN Brasil
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 #http://46.151.196.223:14432
  
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://iili.io/JmoI2nf.png" ch-number="846" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://iili.io/JmoI2nf.png" ch-number="845" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
 http://46.151.196.223:14438/
  
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://iili.io/Jmoudrl.png" ch-number="847" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://iili.io/Jmoudrl.png" ch-number="846" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
 http://46.151.196.223:14444/
  
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://iili.io/JmouJ14.png" ch-number="848" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://iili.io/JmouJ14.png" ch-number="847" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
 http://46.151.196.223:14450/
 
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://iili.io/d9HjpYN.png" ch-number="849" group-title="BRASILIAN SPORTS",ESPN 5 Brasil
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://iili.io/d9HjpYN.png" ch-number="848" group-title="BRASILIAN SPORTS",ESPN 5 Brasil
 http://46.151.196.223:14456
 
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://iili.io/d9HjyvI.png" ch-number="850" group-title="BRASILIAN SPORTS",ESPN 6 Brasil
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://iili.io/d9HjyvI.png" ch-number="849" group-title="BRASILIAN SPORTS",ESPN 6 Brasil
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
-#EXTINF:-1 tvg-id="SporTVHD.br" tvg-logo="https://iili.io/JhkbGcv.png" ch-number="851" group-title="BRASILIAN SPORTS",Sportv
+#EXTINF:-1 tvg-id="SporTVHD.br" tvg-logo="https://iili.io/JhkbGcv.png" ch-number="850" group-title="BRASILIAN SPORTS",Sportv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
  
-#EXTINF:-1 tvg-id="SporTV2HD.br" tvg-logo="https://iili.io/JhkbYt1.png" ch-number="852" group-title="BRASILIAN SPORTS",Sportv 2
+#EXTINF:-1 tvg-id="SporTV2HD.br" tvg-logo="https://iili.io/JhkbYt1.png" ch-number="851" group-title="BRASILIAN SPORTS",Sportv 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
  
-#EXTINF:-1 tvg-id="SporTV3HD.br" tvg-logo="https://iili.io/JhkbEKJ.png" ch-number="853" group-title="BRASILIAN SPORTS",Sportv 3
+#EXTINF:-1 tvg-id="SporTV3HD.br" tvg-logo="https://iili.io/JhkbEKJ.png" ch-number="852" group-title="BRASILIAN SPORTS",Sportv 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
  
-#EXTINF:-1 tvg-id="Premiere.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="854" group-title="BRASILIAN SPORTS",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiere.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="853" group-title="BRASILIAN SPORTS",Premiere Clubes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="855" group-title="BRASILIAN SPORTS",Premiere 2
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="854" group-title="BRASILIAN SPORTS",Premiere 2
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1594,7 +1590,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/
 #KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="856" group-title="BRASILIAN SPORTS",Premiere 3
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="855" group-title="BRASILIAN SPORTS",Premiere 3
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1602,7 +1598,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/
 #KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="857" group-title="BRASILIAN SPORTS",Premiere 4
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="856" group-title="BRASILIAN SPORTS",Premiere 4
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1610,7 +1606,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/
 #KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere5Brazil.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="858" group-title="BRASILIAN SPORTS",Premiere 5
+#EXTINF:-1 tvg-id="Premiere5Brazil.br" tvg-logo="https://iili.io/JmouF7S.png" ch-number="857" group-title="BRASILIAN SPORTS",Premiere 5
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1618,169 +1614,164 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/
 #KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://iili.io/doGmFMx.png" ch-number="859" group-title="BRASILIAN SPORTS",Combate
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://iili.io/doGmFMx.png" ch-number="858" group-title="BRASILIAN SPORTS",Combate
 http://79.127.238.233:14408/
 
-#EXTINF:-1 tvg-id="GE.br" tvg-logo="https://iili.io/KxkqXoX.png" ch-number="860" group-title="BRASILIAN SPORTS",GE TV
+#EXTINF:-1 tvg-id="GE.br" tvg-logo="https://iili.io/KxkqXoX.png" ch-number="859" group-title="BRASILIAN SPORTS",GE TV
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://iili.io/JhkbW9p.png" ch-number="861" group-title="BRASILIAN SPORTS",Band Sports
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://iili.io/JhkbW9p.png" ch-number="860" group-title="BRASILIAN SPORTS",Band Sports
 http://170.83.16.50/BAND_SPORTS/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN HD.us" tvg-logo="https://iili.io/JmoIfF2.png" ch-number="862" group-title="AMERICAN SPORTS",ESPN
+#EXTINF:-1 tvg-id="ESPN HD.us" tvg-logo="https://iili.io/JmoIfF2.png" ch-number="861" group-title="AMERICAN SPORTS",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN2 HD.us" tvg-logo="https://iili.io/JmoI2nf.png" ch-number="863" group-title="AMERICAN SPORTS",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2 HD.us" tvg-logo="https://iili.io/JmoI2nf.png" ch-number="862" group-title="AMERICAN SPORTS",ESPN 2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
  
-#EXTINF:-1 tvg-id="ESPN News HD.us" tvg-logo="https://iili.io/JmoIqaS.png" ch-number="864" group-title="AMERICAN SPORTS",ESPN News
+#EXTINF:-1 tvg-id="ESPN News HD.us" tvg-logo="https://iili.io/JmoIqaS.png" ch-number="863" group-title="AMERICAN SPORTS",ESPN News
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/1dsqkhk11imr810f285zy/master.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://iili.io/JhkDvyB.png" ch-number="865" group-title="AMERICAN SPORTS",ESPN Deportes
+#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://iili.io/JhkDvyB.png" ch-number="864" group-title="AMERICAN SPORTS",ESPN Deportes
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=2066
  
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://iili.io/JmoIn99.png" ch-number="866" group-title="AMERICAN SPORTS",FS1
+#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://iili.io/JmoIn99.png" ch-number="865" group-title="AMERICAN SPORTS",FS1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
  
-#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://iili.io/Jmozgv1.png" ch-number="867" group-title="AMERICAN SPORTS",FS2
+#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://iili.io/Jmozgv1.png" ch-number="866" group-title="AMERICAN SPORTS",FS2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://iili.io/JhkDgZF.png" ch-number="868" group-title="AMERICAN SPORTS",Fox Deportes
+#EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://iili.io/JhkDgZF.png" ch-number="867" group-title="AMERICAN SPORTS",Fox Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811 
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd
 
-#EXTINF:-1 tvg-id="Fox Soccer Plus HD.us" tvg-logo="https://iili.io/JhkD6Ga.png" ch-number="869" group-title="AMERICAN SPORTS",Fox Soccer Plus
+#EXTINF:-1 tvg-id="Fox Soccer Plus HD.us" tvg-logo="https://iili.io/JhkD6Ga.png" ch-number="868" group-title="AMERICAN SPORTS",Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/0rz24u91w9fbp407eceyc/master.m3u8
  
-#EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://iili.io/JmoIJZG.png" ch-number="870" group-title="AMERICAN SPORTS",CBS Sports Network
+#EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://iili.io/JmoIJZG.png" ch-number="869" group-title="AMERICAN SPORTS",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmoI3G4.png" ch-number="871" group-title="AMERICAN SPORTS",CBS Sports Golazo Network
+#EXTINF:-1 tvg-logo="https://iili.io/JmoI3G4.png" ch-number="870" group-title="AMERICAN SPORTS",CBS Sports Golazo Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="TUDN HD.us" tvg-logo="https://iili.io/JhkDVj9.png" ch-number="872" group-title="AMERICAN SPORTS",TUDN
+#EXTINF:-1 tvg-id="TUDN HD.us" tvg-logo="https://iili.io/JhkDVj9.png" ch-number="871" group-title="AMERICAN SPORTS",TUDN
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
-#EXTINF:-1 tvg-id="Golf Channel USA HD.us" tvg-logo="https://iili.io/fkFxRS9.png" ch-number="873" group-title="AMERICAN SPORTS",Golf Channel
+#EXTINF:-1 tvg-id="Golf Channel USA HD.us" tvg-logo="https://iili.io/fkFxRS9.png" ch-number="872" group-title="AMERICAN SPORTS",Golf Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:3f9a6a4b15d8e0eba9f6733ce7c066e5
 https://lott-web-opus.cdn.avp.telus.net/232006003169/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://iili.io/JmoI9un.png" ch-number="874" group-title="AMERICAN SPORTS",beIN Sports Xtra
+#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://iili.io/JmoI9un.png" ch-number="873" group-title="AMERICAN SPORTS",beIN Sports Xtra
 https://i.mjh.nz/PlutoTV/62b97ef310e33f0007eea65f-alt.m3u8
  
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://iili.io/JmozpyX.png" ch-number="875" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://iili.io/JmozpyX.png" ch-number="874" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://iili.io/Jhkb4NS.png" ch-number="876" group-title="CANADIAN SPORTS",TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://iili.io/Jhkb4NS.png" ch-number="875" group-title="CANADIAN SPORTS",TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
  
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://iili.io/JhkbsVe.png" ch-number="877" group-title="CANADIAN SPORTS",TSN 2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://iili.io/JhkbsVe.png" ch-number="876" group-title="CANADIAN SPORTS",TSN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
  
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://iili.io/Jhkbix9.png" ch-number="878" group-title="CANADIAN SPORTS",TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://iili.io/Jhkbix9.png" ch-number="877" group-title="CANADIAN SPORTS",TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
  
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://iili.io/Jhkb6D7.png" ch-number="879" group-title="CANADIAN SPORTS",TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://iili.io/Jhkb6D7.png" ch-number="878" group-title="CANADIAN SPORTS",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://iili.io/JhkbLiu.png" ch-number="880" group-title="CANADIAN SPORTS",TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://iili.io/JhkbLiu.png" ch-number="879" group-title="CANADIAN SPORTS",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sportsnet 360.ca" tvg-logo="https://iili.io/2Gl10I2.png" ch-number="881" group-title="CANADIAN SPORTS",Sportsnet 360
+#EXTINF:-1 tvg-id="Sportsnet 360.ca" tvg-logo="https://iili.io/2Gl10I2.png" ch-number="880" group-title="CANADIAN SPORTS",Sportsnet 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
  
-#EXTINF:-1 tvg-id="FOX.mx" tvg-logo="https://iili.io/qdXASZg.png" ch-number="882" group-title="MEXICAN SPORTS",Fox
+#EXTINF:-1 tvg-id="FOX.mx" tvg-logo="https://iili.io/qdXASZg.png" ch-number="881" group-title="MEXICAN SPORTS",Fox
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX Sports.mx" tvg-logo="https://iili.io/npwuREb.png" ch-number="883" group-title="MEXICAN SPORTS",Nación Deportes
+#EXTINF:-1 tvg-id="FOX Sports.mx" tvg-logo="https://iili.io/npwuREb.png" ch-number="882" group-title="MEXICAN SPORTS",Nación Deportes
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX Sports 2.mx" tvg-logo="https://iili.io/npwWIwu.png" ch-number="884" group-title="MEXICAN SPORTS",Nación Deportes 2
+#EXTINF:-1 tvg-id="FOX Sports 2.mx" tvg-logo="https://iili.io/npwWIwu.png" ch-number="883" group-title="MEXICAN SPORTS",Nación Deportes 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX Sports 3.mx" tvg-logo="https://iili.io/npwWAnj.png" ch-number="885" group-title="MEXICAN SPORTS",Nación Deportes 3
+#EXTINF:-1 tvg-id="FOX Sports 3.mx" tvg-logo="https://iili.io/npwWAnj.png" ch-number="884" group-title="MEXICAN SPORTS",Nación Deportes 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-logo="https://iili.io/npwWTZb.png" ch-number="886" group-title="MEXICAN SPORTS",Nación Deportes Premium 
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-logo="https://iili.io/npwWTZb.png" ch-number="885" group-title="MEXICAN SPORTS",Nación Deportes Premium 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426 
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://iili.io/JhkDVj9.png" ch-number="887" group-title="MEXICAN SPORTS",TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://iili.io/JhkDVj9.png" ch-number="886" group-title="MEXICAN SPORTS",TUDN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="888" group-title="GERMAN SPORTS",Sportdigital Fussball
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="887" group-title="GERMAN SPORTS",Sportdigital Fussball
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL 2.ch" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="889" group-title="GERMAN SPORTS",Sportdigital Fussball 2
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL 2.ch" tvg-logo="https://iili.io/JhkZZKv.png" ch-number="888" group-title="GERMAN SPORTS",Sportdigital Fussball 2
 #KODIPROP:inputstream=inputstream.adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
  
-#EXTINF:-1 tvg-id="W Sport.my" tvg-logo="https://iili.io/Jmozz1p.png" ch-number="890" group-title="WORLD SPORTS",W-Sport
+#EXTINF:-1 tvg-id="W Sport.my" tvg-logo="https://iili.io/Jmozz1p.png" ch-number="889" group-title="WORLD SPORTS",W-Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmozxBR.png" ch-number="891" group-title="WORLD SPORTS",Eurosport Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30cceb96616646fcb9d0d4337d6b1d67:636003cec1d74b159b599f8dd7260e97
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
  
 #EXTINF:-1 tvg-id="Life.id" tvg-logo="https://iili.io/JmocqcG.png" ch-number="1001" group-title="RELIGION",Life
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
