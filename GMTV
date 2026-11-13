@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal2.xml, https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia.xml" refresh="3600"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal2.xml, https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia.xml" refresh="3600"
  
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" ch-number="1" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -84,7 +84,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch119.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://iili.io/JV3xZtS.png" ch-number="21" group-title="NATIONAL NEWS",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://iili.io/JV3xZtS.png" ch-number="21" group-title="NATIONAL NEWS",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://iili.io/JV3xSnt.png" ch-number="22" group-title="NATIONAL NEWS",CNN Indonesia
@@ -99,7 +99,7 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://iili.io/JV3x6cG.png" ch-number="24" group-title="NATIONAL NEWS",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://iili.io/JV3x6cG.png" ch-number="24" group-title="NATIONAL NEWS",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
  
@@ -533,19 +533,19 @@ https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 #EXTINF:-1 tvg-id="TV5MONDE HD" tvg-logo="https://iili.io/KhCjrlf.png" ch-number="150" group-title="EUROPEAN ENTERTAINMENT",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
  
-#EXTINF:-1 tvg-id="52191" tvg-logo="https://iili.io/BHm36e1.png" ch-number="151" group-title="EUROPEAN ENTERTAINMENT",RTP Mundo
+#EXTINF:-1 tvg-id="435.dstv_com" tvg-logo="https://iili.io/BHm36e1.png" ch-number="151" group-title="EUROPEAN ENTERTAINMENT",RTP Mundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVP Polonia HD.pl" tvg-logo="https://iili.io/3XWJPUb.png" ch-number="153" group-title="EUROPEAN ENTERTAINMENT",TVP Polonia
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-logo="https://iili.io/3XWJPUb.png" ch-number="153" group-title="EUROPEAN ENTERTAINMENT",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmoKN9f.png" ch-number="154" group-title="EUROPEAN ENTERTAINMENT",Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
-#EXTINF:-1 tvg-id="RaiItalia.it@Asia" tvg-logo="https://iili.io/Jmo3ys1.png" ch-number="156" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
+#EXTINF:-1 tvg-id="430.dstv_com" tvg-logo="https://iili.io/Jmo3ys1.png" ch-number="156" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
   
 #EXTINF:-1 tvg-id="MusicTV.id" ch-number="201" tvg-logo="https://iili.io/JmnyccQ.png" group-title="MUSIC",Music TV
@@ -1291,16 +1291,16 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="EKOTÜRK.tr" tvg-logo="https://iili.io/K0bWIBn.png" ch-number="735" group-title="TURKISH NEWS",Ekotürk
 https://cdn.ekoturk.net/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" ch-number="736" group-title="AFRICAN NEWS",Africanews English
+#EXTINF:-1 tvg-id="417.dstv_com" tvg-logo="https://iili.io/JmKwef9.png" ch-number="736" group-title="AFRICAN NEWS",Africanews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
  
-#EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" ch-number="737" group-title="AFRICAN NEWS",Africanews Français
+#EXTINF:-1 tvg-id="417.dstv_com" tvg-logo="https://iili.io/JmKwef9.png" ch-number="737" group-title="AFRICAN NEWS",Africanews Français
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-#EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/fYVlwml.png" ch-number="738" group-title="AFRICAN NEWS",CNBC Africa
+#EXTINF:-1 tvg-id="410.dstv_com" tvg-logo="https://iili.io/fYVlwml.png" ch-number="738" group-title="AFRICAN NEWS",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SAN" tvg-logo="https://iili.io/dukKI8G.png" ch-number="739" group-title="AFRICAN NEWS",SABC News
+#EXTINF:-1 tvg-id="404.dstv_com" tvg-logo="https://iili.io/dukKI8G.png" ch-number="739" group-title="AFRICAN NEWS",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://iili.io/JmKwkle.png" ch-number="740" group-title="AFRICAN NEWS",Africa 24
@@ -2251,7 +2251,7 @@ https://c.mjh.nz/abc-tv-plus.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.
 #EXTINF:-1 tvg-id="ABCEntertainsNSW.au" tvg-logo="https://iili.io/3mRvcNe.png" ch-number="1323" group-title="AUSTRALIA",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
  
-#EXTINF:-1 tvg-id="RTÉ One.ie" tvg-logo="https://iili.io/dEfJACb.png" ch-number="1331" group-title="IRELAND",RTÈ One
+#EXTINF:-1 tvg-id="RTÉOne.ie" tvg-logo="https://iili.io/dEfJACb.png" ch-number="1331" group-title="IRELAND",RTÈ One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
 https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
@@ -2264,22 +2264,22 @@ https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
 #EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://iili.io/dEfJRGj.png" ch-number="1333" group-title="IRELAND",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
-#EXTINF:-1 tvg-id="Virgin Media One.ie" tvg-logo="https://iili.io/2GlTsaI.png" ch-number="1334" group-title="IRELAND",Virgin Media One
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-logo="https://iili.io/2GlTsaI.png" ch-number="1334" group-title="IRELAND",Virgin Media One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4852ca631e42e553cf53ad6150f7b0:f1e3f39d41614993ac5c5353f6e58d1c
 https://live-virginmedia.simplestreamcdn.com/out/v1/636bbabe78a242b1bd65fd915574b9c1/index.mpd
 
-#EXTINF:-1 tvg-id="Virgin Media Two.ie" tvg-logo="https://iili.io/2GlTi3N.png" ch-number="1335" group-title="IRELAND",Virgin Media Two
+#EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-logo="https://iili.io/2GlTi3N.png" ch-number="1335" group-title="IRELAND",Virgin Media Two
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4ef154df2f1c07704f4ffae4005be6:294e0a27e76c43aeb16c2b71fc201cfb
 https://live-virginmedia.simplestreamcdn.com/out/v1/376321a2e3cc434baf3805af05a9aaac/index.mpd
 
-#EXTINF:-1 tvg-id="Virgin Media Three.ie" tvg-logo="https://iili.io/2GlT64p.png" ch-number="1336" group-title="IRELAND",Virgin Media Three
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://iili.io/2GlT64p.png" ch-number="1336" group-title="IRELAND",Virgin Media Three
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b10708238b2fe95e0080fe17c28d88fb:1afd6317f3b44772aa2463e1ea1f7d42
 https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3b147/index.mpd
 
-#EXTINF:-1 tvg-id="Virgin Media Four.ie" tvg-logo="https://iili.io/2GlTLvt.png" ch-number="1337" group-title="IRELAND",Virgin Media Four
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-logo="https://iili.io/2GlTLvt.png" ch-number="1337" group-title="IRELAND",Virgin Media Four
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
 https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
