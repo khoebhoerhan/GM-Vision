@@ -89,7 +89,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://iili.io/JV3xSnt.png" ch-number="22" group-title="NATIONAL NEWS",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://20.detik.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8fest.mpd
  
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://iili.io/fppogJj.png" ch-number="23" group-title="NATIONAL NEWS",CNBC Indonesia
@@ -757,7 +757,7 @@ https://maruyatvph.com/con/cartoonnetwork.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://iili.io/JmoBluj.png" ch-number="407" group-title="KIDS",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nickelodeon/index.m3u8
+https://proxy-v.rctiplus.id/live/web/nikelodeon/index.m3u8
  
 #EXTINF:-1 tvg-id="NickJR.id" tvg-logo="https://iili.io/JmoBGnV.png" ch-number="408" group-title="KIDS",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
