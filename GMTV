@@ -484,7 +484,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/qtilvakokh/out/v1/2cb8ae16abad43918e7373de26ffa860/cenc.mpd
 
 #EXTINF:-1 tvg-id="USA Network HD  East.us" tvg-logo="https://iili.io/Jmo3RoP.png" ch-number="131" group-title="AMERICAN ENTERTAINMENT",USA Network
-https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+https://tvsen6.aynaott.com/usa/index.m3u8
 
 #EXTINF:-1  tvg-id="E! Entertainment USA HD  East.us" tvg-logo="https://iili.io/FKniq5x.png" ch-number="132" group-title="AMERICAN ENTERTAINMENT",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -933,8 +933,9 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
  
 #EXTINF:-1 tvg-id="One America News Network HD.us" tvg-logo="https://iili.io/JmKvRCQ.png" ch-number="629" group-title="AMERICAN NEWS",OAN
-#EXTVLCOPT:http-referrer=https://usnewson.com/watch/oann-live-stream/
-https://s17.usnlive.com/stream/oann.m3u8
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+https://p14.usnlive.com/stream/oann.m3u8
  
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://iili.io/Jhksqjs.png" ch-number="630" group-title="BRITISH NEWS",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
