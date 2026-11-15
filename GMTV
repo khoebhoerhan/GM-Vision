@@ -730,7 +730,7 @@ https://maruyatvph.com/con/cartoonnetwork.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://iili.io/JmoBluj.png" ch-number="407" group-title="KIDS",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nikelodeon/index.m3u8
+https://proxy-v.rctiplus.id/live/web/nickelodeon/index.m3u8
  
 #EXTINF:-1 tvg-id="NickJR.id" tvg-logo="https://iili.io/JmoBGnV.png" ch-number="408" group-title="KIDS",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1150,7 +1150,7 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
  
 #EXTINF:-1 tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://iili.io/JhvHw6F.png" ch-number="693" group-title="FRENCH NEWS",LCI
-http://149.62.177.107:9999/LCI/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="RT France.fr" tvg-logo="https://iili.io/JhksYZb.png" ch-number="694" group-title="FRENCH NEWS",RT Français
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1248,7 +1248,7 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN TÜRK.tr" tvg-logo="https://iili.io/JmKHVTJ.png" ch-number="723" group-title="TURKISH NEWS",CNN Türk
-http://95.174.71.114/TR-CNN-TURK/index.m3u8
+http://85.117.61.84/cnnturk/index.m3u8
  
 #EXTINF:-1 tvg-id="BLOOMBERG HT.tr" tvg-logo="https://iili.io/JmKHjBp.png" ch-number="724" group-title="TURKISH NEWS",Bloomberg HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
@@ -1351,43 +1351,28 @@ https://vidio123.mikrofast.web.id/vidio/20216/index.mpd
  
 #EXTINF:-1 tvg-id="SPOTV.id" ch-number="809" tvg-logo="https://iili.io/JjzVsK7.png" group-title="NATIONAL SPORTS",SPOTV Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119&type=drm&token=KITKATTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d3j13axdkrh9nh.cloudfront.net/spotv/index.m3u8
  
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://iili.io/JjzVPPS.png" ch-number="810" group-title="NATIONAL SPORTS",SPOTV2 Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=120&type=drm&token=KITKATTV
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d3j13axdkrh9nh.cloudfront.net/spotv2/index.m3u8
  
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="https://iili.io/JhkLZXa.png" ch-number="811" group-title="NATIONAL SPORTS",beIN Sports 1 Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122&type=drm&token=KITKATTV
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d3j13axdkrh9nh.cloudfront.net/bein1/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-logo="https://iili.io/JhkQ9dN.png" ch-number="812" group-title="NATIONAL SPORTS",beIN Sports 2 Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123&type=drm&token=KITKATTV
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d3j13axdkrh9nh.cloudfront.net/bein2/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.id" tvg-logo="https://iili.io/JhkQCrl.png" ch-number="813" group-title="NATIONAL SPORTS",beIN Sports 3 Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124&type=drm&token=KITKATTV
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d3j13axdkrh9nh.cloudfront.net/bein3/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS4.id" tvg-logo="https://iili.io/JhkQo22.png" ch-number="814" group-title="NATIONAL SPORTS",beIN Sports 4 Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
