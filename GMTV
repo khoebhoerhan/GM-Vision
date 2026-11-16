@@ -669,6 +669,9 @@ http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
   
 #EXTINF:-1 tvg-id="KBS Drama" tvg-logo="https://iili.io/JmnpjvS.png" ch-number="351" group-title="WORLD SERIES",KBS Drama
 http://koreatv.dothome.co.kr/kbsdrama.php
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://iili.io/Jmo29TB.png" ch-number="352" group-title="WORLD SERIES",TF1 Series Films
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://iili.io/fUBoXqB.png" ch-number="353" group-title="WORLD SERIES",Globoplay Novelas
 #EXTVLCOPT:http-origin=https://reidoscanais.life/
@@ -680,19 +683,19 @@ http://koreatv.dothome.co.kr/kbsdrama.php
 #KODIPROP:inputstream.adaptive.license_key=eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
 https://a128aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
  
-#EXTINF:-1 tvg-id="VMAISTVI.pt" tvg-logo="https://iili.io/d14As0G.png" ch-number="362" group-title="PORTUGUESE SERIES",V+ TVI
+#EXTINF:-1 tvg-id="VMAISTVI.pt" tvg-logo="https://iili.io/d14As0G.png" ch-number="354" group-title="PORTUGUESE SERIES",V+ TVI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://tviplayer.iol.pt
 #EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/Vmais_TVI.m3u8
  
-#EXTINF:-1 tvg-id="TVIR.pt" tvg-logo="https://iili.io/JmoB2CN.png" ch-number="363" group-title="PORTUGUESE SERIES",TVI Reality
+#EXTINF:-1 tvg-id="TVIR.pt" tvg-logo="https://iili.io/JmoB2CN.png" ch-number="355" group-title="PORTUGUESE SERIES",TVI Reality
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://tviplayer.iol.pt
 #EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Reality.m3u8
 
-#EXTINF:-1 tvg-id="TVIF.pt" tvg-logo="https://iili.io/qtz5xNs.png" ch-number="364" group-title="PORTUGUESE SERIES",TVI Ficção
+#EXTINF:-1 tvg-id="TVIF.pt" tvg-logo="https://iili.io/qtz5xNs.png" ch-number="356" group-title="PORTUGUESE SERIES",TVI Ficção
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://tviplayer.iol.pt
 #EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
@@ -2096,17 +2099,17 @@ http://149.62.177.107:9999/TF1/index.m3u8
 http://151.80.18.177:86/Canal+_HD/index.m3u8
  
 #EXTINF:-1 tvg-id="France 2.fr" tvg-logo="https://iili.io/JmogxOQ.png" ch-number="1283" group-title="FRANCE",France 2
-http://149.62.177.107:9999/France_2/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="France 3.fr" tvg-logo="https://iili.io/JmognJj.png" ch-number="1284" group-title="FRANCE",France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
  
 #EXTINF:-1 tvg-id="France 4.fr" tvg-logo="https://iili.io/JmogzbV.png" ch-number="1285" group-title="FRANCE",France 4
-http://149.62.177.107:9999/France_4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="France 5.fr" tvg-logo="https://iili.io/Jmog5qF.png" ch-number="1286" group-title="FRANCE",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://iili.io/JmogBUb.png" ch-number="1287" group-title="FRANCE",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
@@ -2128,10 +2131,10 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
  
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://iili.io/JmogMXI.png" ch-number="1290" group-title="FRANCE",TFX
-http://149.62.177.107:9999/TFX/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://iili.io/JmogFs9.png" ch-number="1291" group-title="FRANCE",TMC
-http://149.62.177.107:9999/TMC/index.m3u8
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
  
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://iili.io/Jmog3W7.png" ch-number="1292" group-title="FRANCE",W9
 #KODIPROP:inputstream=inputstream.adaptive
