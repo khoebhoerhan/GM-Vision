@@ -833,7 +833,7 @@ https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="BBC News HD.sg" tvg-logo="https://iili.io/Jhksqjs.png" ch-number="602" group-title="WORLD NEWS",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
  
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-logo="https://iili.io/JhksBZG.png" ch-number="603" group-title="WORLD NEWS",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-logo="https://iili.io/oJd52OQ.png" ch-number="603" group-title="WORLD NEWS",Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://iili.io/JhkslMx.png" ch-number="604" group-title="WORLD NEWS",Sky News
@@ -1209,10 +1209,10 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:-1 tvg-id="Euronews.pl" tvg-logo="https://iili.io/JhksR99.png" ch-number="710" group-title="POLISH NEWS",Euronews Polska
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
  
-#EXTINF:-1 tvg-id="Al Jazeera.ch" tvg-logo="https://iili.io/JmKt8CP.png" ch-number="711" group-title="ARABIC NEWS",Al Jazeera Channel
+#EXTINF:-1 tvg-id="Al Jazeera.ch" tvg-logo="https://iili.io/oJdBA7t.png" ch-number="711" group-title="ARABIC NEWS",Al Jazeera Channel
 https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmKt8CP.png" ch-number="712" group-title="ARABIC NEWS",Al Jazeera Now
+#EXTINF:-1 tvg-logo="https://iili.io/oJdBRkX.png" ch-number="712" group-title="ARABIC NEWS",Al Jazeera Now
 https://live-hls-web-aja2-ll-gcp.thehlive.com/AJA2/index.m3u8
  
 #EXTINF:-1 tvg-id="AlArabiyaAr.sa" tvg-logo="https://iili.io/JmKtSG1.png" ch-number="713" group-title="ARABIC NEWS",Al Arabiya
