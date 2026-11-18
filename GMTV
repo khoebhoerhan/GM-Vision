@@ -985,7 +985,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EURN.pt" tvg-logo="https://iili.io/JhksR99.png" ch-number="641" group-title="PORTUGUESE NEWS",Euronews Português
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25077/euronews-pt.m3u8
 
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://iili.io/Jhv9smQ.png" ch-number="642" group-title="BRASILIAN NEWS",CNN Brasil
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://iili.io/o39bUjn.png" ch-number="642" group-title="BRASILIAN NEWS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="GloboNewsHD.br" tvg-logo="https://iili.io/Jhv9tLP.png" ch-number="643" group-title="BRASILIAN NEWS",Globo News
