@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal2.xml, https://www.open-epg.com/files/unitedkingdom.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia.xml" refresh="3600"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia.xml" refresh="3600"
  
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" ch-number="1" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -683,13 +683,13 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/play
 #KODIPROP:inputstream.adaptive.license_key=eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
 https://a128aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
  
-#EXTINF:-1 tvg-id="VMAISTVI.pt" tvg-logo="https://iili.io/d14As0G.png" ch-number="354" group-title="PORTUGUESE SERIES",V+ TVI
+#EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-logo="https://iili.io/d14As0G.png" ch-number="354" group-title="PORTUGUESE SERIES",V+ TVI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://tviplayer.iol.pt
 #EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/Vmais_TVI.m3u8
  
-#EXTINF:-1 tvg-id="TVIR.pt" tvg-logo="https://iili.io/JmoB2CN.png" ch-number="355" group-title="PORTUGUESE SERIES",TVI Reality
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://iili.io/JmoB2CN.png" ch-number="355" group-title="PORTUGUESE SERIES",TVI Reality
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://tviplayer.iol.pt
 #EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
@@ -970,19 +970,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd?id=7
  
-#EXTINF:-1 tvg-id="CNNPT.pt" tvg-logo="https://iili.io/Jhky4Np.png" ch-number="638" group-title="PORTUGUESE NEWS",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://iili.io/Jhky4Np.png" ch-number="638" group-title="PORTUGUESE NEWS",CNN Portugal
 https://raw.githubusercontent.com/thomraider12/canaistvpt/refs/heads/main/m3u8s/cnnpt.m3u8
  
-#EXTINF:-1 tvg-id="SICN.pt" tvg-logo="https://iili.io/JhkyrRR.png" ch-number="639" group-title="PORTUGUESE NEWS",SIC Notícias
+#EXTINF:-1 tvg-id="SICNoticas.pt" tvg-logo="https://iili.io/JhkyrRR.png" ch-number="639" group-title="PORTUGUESE NEWS",SIC Notícias
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
  
-#EXTINF:-1 tvg-id="RTPN.pt" tvg-logo="https://iili.io/KONNihu.png" ch-number="640" group-title="PORTUGUESE NEWS",RTP Notícias
+#EXTINF:-1 tvg-id="RTPNoticas.pt" tvg-logo="https://iili.io/KONNihu.png" ch-number="640" group-title="PORTUGUESE NEWS",RTP Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EURN.pt" tvg-logo="https://iili.io/JhksR99.png" ch-number="641" group-title="PORTUGUESE NEWS",Euronews Português
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://iili.io/JhksR99.png" ch-number="641" group-title="PORTUGUESE NEWS",Euronews Português
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25077/euronews-pt.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://iili.io/o39bUjn.png" ch-number="642" group-title="BRASILIAN NEWS",CNN Brasil
