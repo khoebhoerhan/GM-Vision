@@ -1772,7 +1772,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@SD" tvg-logo="https://iili.io/Jmo0AYb.png" ch-number="1108" group-title="LIFESTYLE",TLC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={'b6908629732639ada4814a6208296d9c':'7ca9bf03623f77b5e2f16df0b53f274d'}
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Travel Channel.ph" tvg-logo="https://iili.io/2rUanZG.png" ch-number="1109" group-title="LIFESTYLE",Trvl Channel
