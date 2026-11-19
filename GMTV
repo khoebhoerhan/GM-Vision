@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada5.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia.xml" refresh="3600"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://raw.githubusercontent.com/didikc/EPG-2/refs/heads/main/epg/id-cubmu.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/refs/heads/main/visualradio.xml, https://www.open-epg.com/files/malaysia1.xml, https://www.open-epg.com/files/singapore2.xml, https://www.open-epg.com/files/singapore3.xml, https://www.open-epg.com/files/malaysia3.xml, https://www.open-epg.com/files/india.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/mexico1.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia.xml, https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml, https://www.open-epg.com/files/brazil.xml, https://www.open-epg.com/files/canada.xml, https://www.open-epg.com/files/france1.xml, https://www.open-epg.com/files/germany.xml, https://www.open-epg.com/files/austria1.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/refs/heads/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey5.xml, https://www.open-epg.com/files/italy3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/china3.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/poland.xml, www.open-epg.com/files/greece2.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/clickthecity_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/dzmm.xml, https://raw.githubusercontent.com/BillyJoe0212/cignal.play-epg/refs/heads/main/cignal.xml, https://www.open-epg.com/files/sports1.xml, https://www.open-epg.com/files/korea1.xml, https://www.open-epg.com/files/serbia3.xml, https://www.open-epg.com/files/serbia1.xml, https://www.open-epg.com/files/bosnia2.xml, https://www.open-epg.com/files/saudiarabia.xml" refresh="3600"
  
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" ch-number="1" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -74,13 +74,10 @@ https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/playli
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://iili.io/JMp3WNV.png" ch-number="16" group-title="NASIONAL",Da Ai TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/qKXQ0I2.png" ch-number="17" group-title="NASIONAL",Astha
-https://hgmtv.com:19360/asthatv/1080p.m3u8
-
-#EXTINF:-1 tvg-id="Magna Channel.id" tvg-logo="https://iili.io/JMp3eKg.png" ch-number="18" group-title="NASIONAL",Magna Channel
+#EXTINF:-1 tvg-id="Magna Channel.id" tvg-logo="https://iili.io/JMp3eKg.png" ch-number="17" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/q9Ya1aa.png" ch-number="19" group-title="NASIONAL",Jagantara TV
+#EXTINF:-1 tvg-logo="https://iili.io/q9Ya1aa.png" ch-number="18" group-title="NASIONAL",Jagantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch119.m3u8
 
@@ -1126,13 +1123,13 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://iili.io/Jmf97a9.png" ch-number="685" group-title="SPANISH NEWS",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
  
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://iili.io/Jmf9A4S.png" ch-number="686" group-title="SPANISH NEWS",Hispan TV
+#EXTINF:-1 tvg-logo="https://iili.io/Jmf9A4S.png" ch-number="686" group-title="SPANISH NEWS",Hispan TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://odysee.com/
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
  
-#EXTINF:-1 tvg-id="France 24.fr" tvg-logo="https://iili.io/Jhks5ue.png" ch-number="687" group-title="FRENCH NEWS",France 24
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://iili.io/Jhks5ue.png" ch-number="687" group-title="FRENCH NEWS",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
  
 #EXTINF:-1 tvg-id="Euronews F.ch" tvg-logo="https://iili.io/JhksR99.png" ch-number="688" group-title="FRENCH NEWS",Euronews Français
@@ -1142,25 +1139,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
  
-#EXTINF:-1 tvg-id="BFM Business.fr" tvg-logo="https://iili.io/JhvHMTQ.png" ch-number="690" group-title="FRENCH NEWS",BFM Business
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://iili.io/JhvHMTQ.png" ch-number="690" group-title="FRENCH NEWS",BFM Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
  
-#EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://iili.io/JhvHhCP.png" ch-number="691" group-title="FRENCH NEWS",CNews
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://iili.io/JhvHhCP.png" ch-number="691" group-title="FRENCH NEWS",CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
  
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://iili.io/JhvHjG1.png" ch-number="692" group-title="FRENCH NEWS",Franceinfo
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://iili.io/JhvHjG1.png" ch-number="692" group-title="FRENCH NEWS",Franceinfo
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
  
-#EXTINF:-1 tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://iili.io/JhvHw6F.png" ch-number="693" group-title="FRENCH NEWS",LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://iili.io/JhvHw6F.png" ch-number="693" group-title="FRENCH NEWS",LCI
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
  
-#EXTINF:-1 tvg-id="RT France.fr" tvg-logo="https://iili.io/JhksYZb.png" ch-number="694" group-title="FRENCH NEWS",RT Français
+#EXTINF:-1 tvg-logo="https://iili.io/JhksYZb.png" ch-number="694" group-title="FRENCH NEWS",RT Français
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
  
-#EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-logo="https://iili.io/JhvHWZB.png" ch-number="695" group-title="FRENCH NEWS",CGTN Français
+#EXTINF:-1 tvg-id="CGTNFRENCH.ca" tvg-logo="https://iili.io/JhvHWZB.png" ch-number="695" group-title="FRENCH NEWS",CGTN Français
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JhvHVjV.png" ch-number="696" group-title="FRENCH NEWS",TV5Monde Info
@@ -1184,20 +1181,20 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://iili.io/JbnqIWv.png" ch-number="702" group-title="ITALIAN NEWS",Rai News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
  
-#EXTINF:-1 tvg-id="RDI (News).ca" tvg-logo="https://iili.io/JmK3A8P.png" ch-number="703" group-title="CANADIAN NEWS",Ici RDI
+#EXTINF:-1 tvg-id="ICIRDI.ca" tvg-logo="https://iili.io/JmK3A8P.png" ch-number="703" group-title="CANADIAN NEWS",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-id="CTV News Channel.ca" tvg-logo="https://iili.io/F2yswQe.png" ch-number="704" group-title="CANADIAN NEWS",CTV News Channel
+#EXTINF:-1 tvg-id="CTVNEWSHD.ca" tvg-logo="https://iili.io/F2yswQe.png" ch-number="704" group-title="CANADIAN NEWS",CTV News Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
 https://live-de.video.9c9media.com/d/dls/newsdigictv1003/manifest.mpd
 
-#EXTINF:-1 tvg-id="BNN Bloomberg.ca" tvg-logo="https://iili.io/fSNy2cu.png" ch-number="705" group-title="CANADIAN NEWS",BNN Bloomberg
+#EXTINF:-1 tvg-id="BNNBLOOMBERGHD.ca" tvg-logo="https://iili.io/fSNy2cu.png" ch-number="705" group-title="CANADIAN NEWS",BNN Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
 https://live-news.video.9c9media.com/f/news/bnnbloomberg/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmK3ucB.png" ch-number="706" group-title="CANADIAN NEWS",Global News
+#EXTINF:-1 tvg-id="GlobalNewsBC1.ca" tvg-logo="https://iili.io/JmK3ucB.png" ch-number="706" group-title="CANADIAN NEWS",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://iili.io/3XWNAhX.png" ch-number="707" group-title="POLISH NEWS",TVP Info
@@ -1230,78 +1227,81 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabiaAr.sa" tvg-logo="https://iili.io/2M8dyrv.png" ch-number="716" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
-#EXTINF:-1 tvg-id="CNBCArabiaAr.sa" tvg-logo="https://iili.io/fYnbB8G.png" ch-number="717" group-title="ARABIC NEWS",CNBC Arabia
+#EXTINF:-1 tvg-logo="https://iili.io/2iOxxCN.png" ch-number="717" group-title="ARABIC NEWS",BBC News Arabia
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="CNBCArabiaAr.sa" tvg-logo="https://iili.io/fYnbB8G.png" ch-number="718" group-title="ARABIC NEWS",CNBC Arabia
 https://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
  
-#EXTINF:-1 tvg-id="TRT EL ARABIA.tr" tvg-logo="https://iili.io/JmKtkZB.png" ch-number="718" group-title="ARABIC NEWS",TRT Arabi
+#EXTINF:-1 tvg-id="TRT EL ARABIA.tr" tvg-logo="https://iili.io/JmKtkZB.png" ch-number="719" group-title="ARABIC NEWS",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
  
-#EXTINF:-1 tvg-id="France24Ar.sa" tvg-logo="https://iili.io/Jhks5ue.png" ch-number="719" group-title="ARABIC NEWS",France 24 Arabic
+#EXTINF:-1 tvg-id="France24Ar.sa" tvg-logo="https://iili.io/Jhks5ue.png" ch-number="720" group-title="ARABIC NEWS",France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
  
-#EXTINF:-1 tvg-id="DW Arabia HD.ae" tvg-logo="https://iili.io/Jhksu87.png" ch-number="720" group-title="ARABIC NEWS",DW Arabic
+#EXTINF:-1 tvg-logo="https://iili.io/Jhksu87.png" ch-number="721" group-title="ARABIC NEWS",DW Arabic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
  
-#EXTINF:-1 tvg-id="RTArabicAr.sa" tvg-logo="https://iili.io/JhksYZb.png" ch-number="721" group-title="ARABIC NEWS",RT Arabic
+#EXTINF:-1 tvg-id="RTArabicAr.sa" tvg-logo="https://iili.io/JhksYZb.png" ch-number="722" group-title="ARABIC NEWS",RT Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
  
-#EXTINF:-1 tvg-id="CGTN Arabic.ae" tvg-logo="https://iili.io/JmKtejV.png" ch-number="722" group-title="ARABIC NEWS",CGTN Arabic
+#EXTINF:-1 tvg-id="CGTN Arabic.ae" tvg-logo="https://iili.io/JmKtejV.png" ch-number="723" group-title="ARABIC NEWS",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN TÜRK.tr" tvg-logo="https://iili.io/JmKHVTJ.png" ch-number="723" group-title="TURKISH NEWS",CNN Türk
+#EXTINF:-1 tvg-id="CNN TÜRK.tr" tvg-logo="https://iili.io/JmKHVTJ.png" ch-number="724" group-title="TURKISH NEWS",CNN Türk
 http://85.117.61.84/cnnturk/index.m3u8
  
-#EXTINF:-1 tvg-id="BLOOMBERG HT.tr" tvg-logo="https://iili.io/JmKHjBp.png" ch-number="724" group-title="TURKISH NEWS",Bloomberg HT
+#EXTINF:-1 tvg-id="BLOOMBERG HT.tr" tvg-logo="https://iili.io/JmKHjBp.png" ch-number="725" group-title="TURKISH NEWS",Bloomberg HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-id="CNBC e.tr" tvg-logo="https://iili.io/qPWmoS2.png" ch-number="725" group-title="TURKISH NEWS",CNBC-e
+#EXTINF:-1 tvg-id="CNBC e.tr" tvg-logo="https://iili.io/qPWmoS2.png" ch-number="726" group-title="TURKISH NEWS",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
  
-#EXTINF:-1 tvg-id="TRT HABER.tr" tvg-logo="https://iili.io/JmKHwEN.png" ch-number="726" group-title="TURKISH NEWS",TRT Haber
+#EXTINF:-1 tvg-id="TRT HABER.tr" tvg-logo="https://iili.io/JmKHwEN.png" ch-number="727" group-title="TURKISH NEWS",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
  
-#EXTINF:-1 tvg-id="A HABER.tr" tvg-logo="https://iili.io/JmKHvvn.png" ch-number="727" group-title="TURKISH NEWS",A Haber
+#EXTINF:-1 tvg-id="A HABER.tr" tvg-logo="https://iili.io/JmKHvvn.png" ch-number="728" group-title="TURKISH NEWS",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
  
-#EXTINF:-1 tvg-id="HABER GLOBAL.tr" tvg-logo="https://iili.io/JmKHWhv.png" ch-number="728" group-title="TURKISH NEWS",Haber Global
+#EXTINF:-1 tvg-id="HABER GLOBAL.tr" tvg-logo="https://iili.io/JmKHWhv.png" ch-number="729" group-title="TURKISH NEWS",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
  
-#EXTINF:-1 tvg-id="HABERTÜRK.tr" tvg-logo="https://iili.io/JmKHEkg.png" ch-number="729" group-title="TURKISH NEWS",Habertürk
+#EXTINF:-1 tvg-id="HABERTÜRK.tr" tvg-logo="https://iili.io/JmKHEkg.png" ch-number="730" group-title="TURKISH NEWS",Habertürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
  
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://iili.io/JmKHXQR.png" ch-number="730" group-title="TURKISH NEWS",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://iili.io/JmKHXQR.png" ch-number="731" group-title="TURKISH NEWS",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
  
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://iili.io/JmKHkYX.png" ch-number="731" group-title="TURKISH NEWS",24
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://iili.io/JmKHkYX.png" ch-number="732" group-title="TURKISH NEWS",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 tvg-id="TV 100.tr" tvg-logo="https://iili.io/2XBndap.png" ch-number="732" group-title="TURKISH NEWS",tv100
+#EXTINF:-1 tvg-id="TV 100.tr" tvg-logo="https://iili.io/2XBndap.png" ch-number="733" group-title="TURKISH NEWS",tv100
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 
-#EXTINF:-1 tvg-id="TGRT HABER.tr" tvg-logo="https://iili.io/JmKHN4I.png" ch-number="733" group-title="TURKISH NEWS",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT HABER.tr" tvg-logo="https://iili.io/JmKHN4I.png" ch-number="734" group-title="TURKISH NEWS",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
  
-#EXTINF:-1 tvg-id="TVNET HD.tr" tvg-logo="https://iili.io/JmKHe2t.png" ch-number="734" group-title="TURKISH NEWS",tvnet
+#EXTINF:-1 tvg-id="TVNET HD.tr" tvg-logo="https://iili.io/JmKHe2t.png" ch-number="735" group-title="TURKISH NEWS",tvnet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EKOTÜRK.tr" tvg-logo="https://iili.io/K0bWIBn.png" ch-number="735" group-title="TURKISH NEWS",Ekotürk
+#EXTINF:-1 tvg-id="EKOTÜRK.tr" tvg-logo="https://iili.io/K0bWIBn.png" ch-number="736" group-title="TURKISH NEWS",Ekotürk
 https://cdn.ekoturk.net/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="417.dstv_com" tvg-logo="https://iili.io/JmKwef9.png" ch-number="736" group-title="AFRICAN NEWS",Africanews English
+#EXTINF:-1 tvg-id="417.dstv_com" tvg-logo="https://iili.io/JmKwef9.png" ch-number="737" group-title="AFRICAN NEWS",Africanews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
  
-#EXTINF:-1 tvg-id="417.dstv_com" tvg-logo="https://iili.io/JmKwef9.png" ch-number="737" group-title="AFRICAN NEWS",Africanews Français
+#EXTINF:-1 tvg-id="417.dstv_com" tvg-logo="https://iili.io/JmKwef9.png" ch-number="738" group-title="AFRICAN NEWS",Africanews Français
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-#EXTINF:-1 tvg-id="410.dstv_com" tvg-logo="https://iili.io/fYVlwml.png" ch-number="738" group-title="AFRICAN NEWS",CNBC Africa
+#EXTINF:-1 tvg-id="410.dstv_com" tvg-logo="https://iili.io/fYVlwml.png" ch-number="739" group-title="AFRICAN NEWS",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="404.dstv_com" tvg-logo="https://iili.io/dukKI8G.png" ch-number="739" group-title="AFRICAN NEWS",SABC News
+#EXTINF:-1 tvg-id="404.dstv_com" tvg-logo="https://iili.io/dukKI8G.png" ch-number="740" group-title="AFRICAN NEWS",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
  
-#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://iili.io/JmKwkle.png" ch-number="740" group-title="AFRICAN NEWS",Africa 24
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://iili.io/JmKwkle.png" ch-number="741" group-title="AFRICAN NEWS",Africa 24
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://iili.io/2lP4Kq7.png" ch-number="801" group-title="NATIONAL SPORTS",Champions TV 1
@@ -1661,36 +1661,36 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MR
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:3f9a6a4b15d8e0eba9f6733ce7c066e5
 https://lott-web-opus.cdn.avp.telus.net/232006003169/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://iili.io/Jhkb4NS.png" ch-number="873" group-title="CANADIAN SPORTS",TSN 1
+#EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://iili.io/Jhkb4NS.png" ch-number="873" group-title="CANADIAN SPORTS",TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
  
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://iili.io/JhkbsVe.png" ch-number="874" group-title="CANADIAN SPORTS",TSN 2
+#EXTINF:-1 tvg-id="TSN2HD.ca" tvg-logo="https://iili.io/JhkbsVe.png" ch-number="874" group-title="CANADIAN SPORTS",TSN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
  
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://iili.io/Jhkbix9.png" ch-number="875" group-title="CANADIAN SPORTS",TSN 3
+#EXTINF:-1 tvg-id="TSN3HD.ca" tvg-logo="https://iili.io/Jhkbix9.png" ch-number="875" group-title="CANADIAN SPORTS",TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
  
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://iili.io/Jhkb6D7.png" ch-number="876" group-title="CANADIAN SPORTS",TSN 4
+#EXTINF:-1 tvg-id="TSN4HD.ca" tvg-logo="https://iili.io/Jhkb6D7.png" ch-number="876" group-title="CANADIAN SPORTS",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://iili.io/JhkbLiu.png" ch-number="877" group-title="CANADIAN SPORTS",TSN 5
+#EXTINF:-1 tvg-id="TSN5HD.ca" tvg-logo="https://iili.io/JhkbLiu.png" ch-number="877" group-title="CANADIAN SPORTS",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sportsnet 360.ca" tvg-logo="https://iili.io/2Gl10I2.png" ch-number="878" group-title="CANADIAN SPORTS",Sportsnet 360
+#EXTINF:-1 tvg-id="SPORTSNET360HD.ca" tvg-logo="https://iili.io/2Gl10I2.png" ch-number="878" group-title="CANADIAN SPORTS",Sportsnet 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
