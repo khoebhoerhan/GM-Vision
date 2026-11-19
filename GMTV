@@ -1382,10 +1382,7 @@ https://proxy-v.rctiplus.id/live/web/ss2/index.m3u8
 #EXTINF:-1 tvg-id="Sportstars3.id" tvg-logo="https://iili.io/JjzVUNf.png" ch-number="818" group-title="NATIONAL SPORTS",Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114&type=drm&token=KITKATTV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://proxy-v.rctiplus.id/live/web/ss3/index.m3u8
 
 #EXTINF:-1 tvg-id="Sportstars4.id" tvg-logo="https://iili.io/JjzV6V2.png" ch-number="819" group-title="NATIONAL SPORTS",Sportstars 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
