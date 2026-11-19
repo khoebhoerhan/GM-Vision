@@ -727,10 +727,7 @@ https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
 https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
  
 #EXTINF:-1 tvg-id="DaVinciAsia.de@SD" tvg-logo="https://iili.io/JmoBOAJ.png" ch-number="411" group-title="KIDS",Da Vinci Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+https://freem3u.xyz/api/live/play.m3u8?vid=214
  
 #EXTINF:-1 tvg-id="ZooMoo.id" tvg-logo="https://iili.io/JmoBV6P.png" ch-number="412" group-title="KIDS",ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -755,7 +752,7 @@ https://maruyatvph.com/con/discoveryasia.mpd
 #EXTINF:-1 tvg-id="716.astro" tvg-logo="https://iili.io/d9HE0l9.png" ch-number="503" group-title="EDUCATIONAL",DMAX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={'53b26f904ae03a20b56477cfb9c5dca2':'0c64ccfb978e7390bd33344075492aec'}
+#KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg@SD" tvg-logo="https://iili.io/JmoCOg9.png" ch-number="504" group-title="EDUCATIONAL",Animal Planet
@@ -1754,10 +1751,7 @@ http://202.150.165.66:8088/play/325-EatnGo/index.m3u8
 https://proxy-v.rctiplus.id/live/web/foodtravel/index.m3u8
  
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg@SD" tvg-logo="https://iili.io/Jmo0u3u.png" ch-number="1104" group-title="LIFESTYLE",Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
+https://freem3u.xyz/api/live/play.m3u8?vid=215
 
 #EXTINF:-1 tvg-id="cg_bbclifestyle" tvg-logo="https://iili.io/2rUAhlt.png" ch-number="1105" group-title="LIFESTYLE",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1769,14 +1763,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 tvg-id="708.astro" tvg-logo="https://iili.io/dH2ZfRe.png" ch-number="1106" group-title="LIFESTYLE",Food Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d4b9d55410d24905920e57664a047116":"d821110f280f4545ae0227d5784af199"}
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
  
 #EXTINF:-1 tvg-id="HGTV HD.sg" tvg-logo="https://iili.io/Jmo0xC7.png" ch-number="1107" group-title="LIFESTYLE",HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
+https://freem3u.xyz/api/live/play.m3u8?vid=99
  
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@SD" tvg-logo="https://iili.io/Jmo0AYb.png" ch-number="1108" group-title="LIFESTYLE",TLC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
