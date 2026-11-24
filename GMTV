@@ -32,17 +32,20 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w26855752592_b744100_
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://iili.io/JMp36xI.png" ch-number="6" group-title="NASIONAL",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rctiplus123.mikrofast.my.id/rctiplus/rcti/redirect.m3u8
  
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://iili.io/JMp3kla.png" ch-number="7" group-title="NASIONAL",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rctiplus123.mikrofast.my.id/rctiplus/mnctv/redirect.m3u8
  
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://iili.io/JMp3joP.png" ch-number="8" group-title="NASIONAL",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://rctiplus123.mikrofast.my.id/rctiplus/gtv/redirect.m3u8
  
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" ch-number="9" group-title="NASIONAL",ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -105,9 +108,9 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 https://flv.intechmedia.net/live/ch109.m3u8
  
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://iili.io/JV3x4Fs.png" ch-number="26" group-title="NATIONAL NEWS",iNews
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
  
 #EXTINF:-1 tvg-id="SindonewsTV.id" tvg-logo="https://iili.io/JV3xQN2.png" ch-number="27" group-title="NATIONAL NEWS",Sindonews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -709,7 +712,7 @@ https://maruyatvph.com/con/cartoonnetwork.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://iili.io/JmoBluj.png" ch-number="407" group-title="KIDS",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nickelodeon/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/nikleodeon/index.m3u8
  
 #EXTINF:-1 tvg-id="NickJR.id" tvg-logo="https://iili.io/JmoBGnV.png" ch-number="408" group-title="KIDS",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
