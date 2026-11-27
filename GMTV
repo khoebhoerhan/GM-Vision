@@ -1118,7 +1118,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&star
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
  
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://iili.io/JhvHjG1.png" ch-number="692" group-title="FRENCH NEWS",Franceinfo
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://iili.io/JhvHw6F.png" ch-number="693" group-title="FRENCH NEWS",LCI
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
@@ -1892,10 +1892,10 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRh
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
   
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://iili.io/d9BEhyQ.png" ch-number="1231" group-title="UK",BBC One
-https://albione.858it-cast.workers.dev/bbc1.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
  
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://iili.io/d9BEwuV.png" ch-number="1232" group-title="UK",BBC Two
-https://albione.858it-cast.workers.dev/bbc2.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk" tvg-logo="https://iili.io/d9lwQUB.png" ch-number="1233" group-title="UK",BBC Three
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
